@@ -1,0 +1,15 @@
+{
+  "OrbQuestion_Translated": "Möchtest du den Orb benutzen?",
+  "Yes_Translated": "Ja",
+  "No_Translated": "Nein",
+  "SetTeleport_Translated": "Teleportationsort festgelegt!",
+  "TeleportNotSet_Translated": "Ungültiger Teleportationsort.",
+  "Teleported_Translated": "Teleportiert!",
+
+  "SetPortalQuestion_Translated": "Möchtest du den Portalstandort hier festlegen?",
+  "PortalNotSet_Translated": "Portalstandort wurde nicht festgelegt.",
+  "ResetPortalQuestion_Translated": "Möchtest du den Standort des Portals zurücksetzen?",
+  "ResetTeleport_Translated": "Der Standort des Portals wurde zurückgesetzt.",
+  "PortalNotReset_Translated": "Der Standort des Portals wurde nicht zurückgesetzt."
+
+}

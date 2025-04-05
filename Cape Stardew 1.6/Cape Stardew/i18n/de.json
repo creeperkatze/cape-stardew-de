@@ -1,0 +1,916 @@
+{
+  "UB.IslandDebris": "Inseltrümmer",
+  "CapeDebris.blocked": "Etwas blockiert deinen Weg...",
+
+  "UB.RealSecretBase2": "Geheime Wasserfälle Bündel",
+
+  "junimo.mail001": "Hallo @!^^ Wir, die Junimos, sind so glücklich! Danke, dass du uns deinen besten Ahornsirup gegeben hast.^^Als großes Dankeschön haben wir einen Platz im Wald nur für dich geräumt! Du kannst damit machen, was du willst!^^Danke nochmal, @! Du bist der Beste!^^Mit Liebe,^^Die Junimos",
+
+  "ghost.mail001": "^^^^Im Herzen der Hütte, wo die Zeit ihre Geheimnisse flüstert, beginnt ein neues Kapitel.^^^^Fühle die Veränderung in der Luft, das sanfte Seufzen der Transformation.^^^Der Stille Geist^^^",
+
+
+  "annetta_spring_order": "Hallo @,^^Ich wollte dir meinen herzlichen Dank für deine Unterstützung bei meiner letzten Anfrage aussprechen. Dein Beitrag hat wirklich meine Vorstellungskraft angeregt und zur Schaffung eines neuen Gemäldes geführt, auf das ich sehr stolz bin. Bitte nimm dieses bescheidene Geschenk als Zeichen meiner Wertschätzung an.^^Mit Dankbarkeit,^^Annetta",
+
+
+///other//
+
+  "midnightbluekey": "Hey @,^^ Ich freue mich, dir mitteilen zu können, dass ich mir die Freiheit genommen habe, die Minecart-Strecke zum Kap Stardew zu verbessern. Nach deinen letzten Erkundungen schien es nur passend, zukünftigen Abenteurern eine reibungslosere Reise zu ermöglichen.^^Beste Grüße, ^^  -Marlon",
+
+
+  "LocationName.Cape": "Kap",
+
+  "LocationName.CapeIslandBottle": "Kap-Insel",
+
+
+ //stringsfromcsfiles//
+  "Strings.CapeRescue.001": "Als dein Blick verschwimmt, spürst du eine seltsame, überirdische Präsenz, die dich aus dem Wasser hebt.",
+
+
+
+//StringsFromMaps//
+
+  "Strings.Annettahouse.1": "-Annettas Tagebuch-",
+
+  "Strings.Annettahouse.2": "Natur Herausforderung:^^- Male eine friedliche Landschaft des verzauberten Waldes.^- Übe eine beruhigende Klaviermelodie, inspiriert von den geheimen Wäldern.^- Skizziere niedliche Tiere im Wald.^- Summ eine neue Melodie, inspiriert von den Wellen des Ozeans.^- Schau dir den Sonnenaufgang von der höchsten Klippe an. ^^Pelikan Stadt Aufträge:^- Hol frische Farben von Pierres für künstlerische Erkundungen.^- Besuche die Bibliothek für Inspiration und kreative Bücher.^^^^Denk daran, jeden Moment zu genießen und die Kreativität fließen zu lassen! ^^",
+
+
+  "Strings.Annettahouse.3": "- Ein seltsames Waldbewohner sitzt auf Annettas Regal -",
+
+  "Strings.Annettahouse.6": "-Vielleicht ist sie ein Fan dieser epischen Geschichten aus längst vergangenen Zeiten, als Piraten und Entdecker die sieben Meere befuhren-",
+
+  "Strings.Annettahouse.7": "-Einkaufs- und Aufgabenlisten sind am Kühlschrank befestigt-",
+
+  "Strings.Annettahouse.8": "- Der Spiegel ist makellos -",
+
+  "Strings.Annettahouse.9": "-Verschiedene Musikgeschichtsbücher-",
+
+  "Strings.Annettahouse.10": "-Kochbücher sind auf diesem Regal platziert-",
+
+  "Strings.Annettahouse.11": "Fantastische Literatur über magische, ferne Welten.",
+
+  "Strings.Annettahouse.12": " -Einige Musikbücher sind hier angeordnet-",
+
+  "Strings.Annettahouse.13": " -Beliebte Bücher zu Themen wie Musik und Kultur sind ordentlich im Regal angeordnet-",
+
+  "Strings.Annettahouse.14": " -Stapel von Zeitschriften zu Themen wie Technologie-",
+
+  "Strings.Annettahouse.17": "Es ist ein kleines Bücherregal, verziert mit einer Regenbogenschale. Während du weiter untersuchst, fangen deine Augen das Funkeln lebendiger Muscheln, abgedroschener antiker Bücher mit verblassten Runen, die auf vergessenes Wissen hinweisen, zarte Kristallfiguren, die das Spiel des Lichts einfangen, und eine Auswahl anderer faszinierender Objekte ein, die sorgfältig zwischen den leeren Räumen der Regale platziert sind.",
+
+  "Strings.Annettahouse.19": "Ein Notizblock mit einer Liste potenzieller Malideen: Mystischer Wald bei Dämmerung, Verspielte Wellen und Mondscheinserenade am Meer.",
+
+  "Strings.Annettaupstairs.1": "-Es ist ein Kolibri-Gemälde, das mit Acryl gemacht wurde-",
+
+  "Strings.Annettaupstairs.2": " -Dieser Bereich ist mit Kunstbüchern gefüllt-",
+
+  "Strings.Annettaupstairs.3": " -Dieser Bereich ist mit allen Arten von Comics gefüllt-",
+
+  "Strings.Annettaupstairs.4": " -Einige der bekanntesten Coming-of-Age-Romane, die je geschrieben wurden-",
+
+  "Strings.Annettahouse.30": "-Es ist Annettas Lieblingsdessert, grüner Tee Mochi-",
+
+  "Strings.Annettahouse.alt": "Annettas Abendessen sieht lecker aus.",
+
+  "Strings.AnnettaForest.1": "- Der Wald ist hier zu dicht -",
+
+  "Strings.AnnettaCave.10": "Es sieht ziemlich dunkel aus. Du solltest zurückkommen, sobald du der Abenteurergilde beigetreten bist.",
+
+  "Strings.Cape.1": "-DDieses Boot ist für erfahrene Abenteurer verfügbar-",
+
+  "Strings.Cape.2": "Du hast den südwestlichsten Punkt des Sternentautals erreicht.",
+
+  "Strings.Cape.3": "-Zundersaft-Wald-",
+
+  "Strings.CapeMinehint.1": "Vorsicht: Jenseits dieses Punktes liegt die Alte Waldmine. Zuletzt in den frühen Jahren von Pelikanstadt gewartet.",
+
+  "Strings.Cape.current": "Die Strömung drückt dich zurück.",
+
+  "Strings.Cape.4": "Dieser Baum ist zu groß, du kannst ihn nicht fällen.",
+
+  "Strings.Cave.1": "Hier liegt ein Schatz. Sei gewarnt.",
+
+  "Strings.Abandoned.1": "Es sieht hier verlassen aus.",
+
+  "Strings.Abandoned.2": "Sieht so aus, als könntest du hier für die Nacht schlafen.",
+
+  "Strings.cape.forest.1": "Kap Sternentau",
+
+  "Strings.DarkCave.1": "-Die Tür hat ein Schloss daran-",
+
+  "Strings.CapeMinecart1": "Der Strom ist abgeschaltet.",
+
+
+///LeahDialogue//
+
+  "Leah.Winter_Year1": "Oh, hi @. Es ist großartig, so wunderbare Nachbarn zu haben. Ich hoffe, du hast deinen Kamin angezündet.",
+
+  "Leah.Winter_Dialogue": "Hallo @. Annetta redet gerne mit mir...heheh.",
+
+  "LeahSchedule.spring_Thu.120": "%Leah ist beschäftigt, mit Annetta zu reden.",
+
+  "LeahSchedule.spring_Thu.121": "Hey, wir haben gerade über jemanden gesprochen.",
+
+  "LeahSchedule.spring_Thu.122": "Es ist wirklich schön, eine Künstlerin wie Annetta als Nachbarin zu haben.",
+
+  "LeahSchedule.spring_Thu.123": "Annetta ist wirklich an meinen Kunstwerken interessiert. Sie ist so nett.",
+
+
+
+//MarnieDialogue//
+
+  "MarnieYear1.spring_Thu.120": "Annetta wollte sich vorstellen. Sie ist so nett, dass sie mir etwas aus dem Laden mitgebracht hat.$1",
+
+  "MarnieYear1.spring_Thu.121": "Annetta ist so nett. Ich liebe es, sie als Nachbarin zu haben.$1",
+
+  "MarnieYear1.spring_Thu.122": "Von zu Hause aus zu arbeiten ist gar nicht so schlecht.",
+
+  "MarnieSchedule.spring_Thu.120": "Annetta wollte sich vorstellen. Sie ist so nett, dass sie mir etwas aus dem Laden mitgebracht hat.$1",
+
+  "MarnieSchedule.spring_Thu.121": "Annetta ist so nett. Ich liebe es, sie als Nachbarin zu haben.$1",
+
+  "MarnieSchedule.spring_Thu.122": "Von zu Hause aus zu arbeiten ist gar nicht so schlecht.",
+
+
+//Mail//
+
+  "Mail.Dialogue.Recipe1": "An @ ^^ Ein Rezept ist beigefügt. Danke, dass du mich im Tal so willkommen geheißen hast. Ich wollte das mit dir teilen! ^^                                                       -Annetta",
+
+  "Mail.Dialogue.PomRecipe": "Liebe @. ^^ Hast du mein Rezept bekommen? Ich habe einen neuen Geschmack von Mochi ausprobiert und fand ihn toll, also habe ich es aufgeschrieben. Es ist Granatapfel-Mochi, ich kann es dir sehr empfehlen.^^                                                  -Annetta",
+
+  "Mail.Dialogue.CaveKey": "Hallo @!^^Ich bin ziemlich beeindruckt von deinen Erkundungsfähigkeiten. Wenn du etwas gefunden hast, das sich zu verkaufen lohnt, komm doch mal im Laden vorbei.^ -Marlon",
+
+  "Mail.Dialogue.DiscoveryCave": "Hallo @!^^Hast du in letzter Zeit etwas Interessantes in der Meereshöhle gefunden?^ -Marlon",
+
+  "Mail.Dialogue.PrettyStoneDelivered": "Danke dir nochmals, dass du mir bei meiner Bitte geholfen hast. ^^ Ich habe viel über meine Träume nachgedacht, und dieses Gemälde fühlte sich wie der richtige Weg an, alles auszudrücken. ^ Es gibt etwas über das Meer, das mich ruft, etwas, das unter den Wellen verborgen ist wie ein Schatz. Es ist eine gute Erinnerung daran, was wir entdecken könnten. ^^ Ich hoffe, dir gefällt das Gemälde. Es ist ein Stück meines Herzens, auf eine Art. Du warst so freundlich, und ich schätze deine Freundschaft mehr, als Worte sagen können. ^^                                    -Annetta",
+
+//Descriptions//
+
+  "Description.Cape": "Erlaubt, legendäre Fische hier zu fangen, mit Ausnahme von Mutantenkarpfen.",
+
+  "Description.dockedboat": "Deaktiviert das angedockte Boot am Strand von Pelikanstadt. (Lass dies aktiviert, es sei denn, ein anderer Mod hat Konflikte mit dem Bootspatch.)",
+
+  "Description.buscaped": "Wechselt, ob der Bus an der Bushaltestelle im Wald erscheint. Deaktiviere es, wenn du Probleme hast.",
+
+///notices///
+
+  "Strings.Capeboatlocked.1": "Dieses Boot gehört bestimmt jemandem in der Nähe. Es ist in gutem Zustand.",
+
+  "Strings.BusStopclosed.1": "Der Busfahrer hat noch nicht mit der Arbeit begonnen.",
+
+  "Strings.BusStopclosed.2": "Der Bus ist außer Betrieb.",
+
+  "Strings.BusStopclosed.3": "Der Busfahrer ist für den Tag nach Hause gegangen...",
+
+  "Strings.WallCrumble.1": "Die Wand bröckelt hier...",
+
+
+//CapeEvents//
+
+  "cape.cs.e.001": "Hey! Ich bin gerade von der Erkundung des Höhleneingangs zurückgekommen. Es ist ganz schön beeindruckend da unten...",
+  "cape.cs.e.002": "Aber ich würde dir nicht empfehlen, einfach so hineinzutauchen. Es ist ziemlich gefährlich dort unten. Es gibt Gerüchte über alte Geister, die diese Tiefen heimsuchen, und Geschichten über verlorene Schätze, die durch die Höhlen hallen. Es ist ein Ort, an dem der Mut auf die Probe gestellt wird und an dem Geheimnisse im Überfluss vorhanden sind.",
+  "cape.cs.e.003": "Dennoch konnte ich nicht anders, als über die Schätze nachzudenken, die tief in diesen Höhlen verborgen sind.",
+  "cape.cs.e.004": "Weißt du, es könnte sich lohnen, einen Blick darauf zu werfen, aber du wirst zuerst etwas Erfahrung sammeln müssen.",
+  "cape.cs.e.005": "Hast du darüber nachgedacht, Mitglied der Abenteurergilde zu werden? Diejenigen, die dort ihre Fähigkeiten geschärft und Wissen gesammelt haben, haben sich den Herausforderungen gestellt, die jenseits dieses Punktes liegen. Es könnte sich lohnen, dich vorzubereiten, Ressourcen zu sammeln und deine Fähigkeiten zu stärken, bevor du weitergehst.",
+  "cape.cs.e.006": "Denk daran, es ist nicht alles Sonnenschein und Regenbögen da unten. Pass auf, dass du dir keine bösen Überraschungen einfängst. Wie auch immer, ich muss los. Pass auf dich auf!",
+
+  "cape.cs.e.007": "Nur ein Wort der Warnung: Bevor du in diese Höhle eintauchst, stelle sicher, dass du etwas Erfahrung hast. Das Letzte, was du willst, ist, überrascht zu werden.",
+
+
+  "key.cs.e.001": "Sieht so aus, als würde dieser Schlüssel die Tür öffnen.",
+
+
+
+///queststuff//
+
+  "secret_key.title": "Geheimer Höhlenschlüssel",
+
+  "secret_key.description": "Ein Schlüssel war in der Meereshöhle sichtbar.",
+
+  "secret_key.objective": "Finde den geheimnisvollen Schlüssel und entdecke seinen Zweck.",
+
+
+  "quest.Basic.1": "Essenz des Waldes.",
+
+  "quest.Basic.2": "Sammle einen Kiefernzapfen, einen roten Pilz und einen Krokus.",
+
+  "quest.Basic.3": "Eine uralte Essenz sucht danach, dich zu führen. Kehre in ein oder zwei Tagen in die Höhle zurück, um die Aufgabe abzuschließen.",
+
+  "quest.Basic.summer": "Sammle einen Kiefernzapfen, einen roten Pilz und eine Sommerblüte.",
+
+
+  "quest.Basic.x1": "Sammle einen Erdkristall, Quarz und einen roten Pilz.",
+
+
+
+
+
+  "quest.Basic.x2": "Sammle eine Narzisse, einen Pfifferling und eine Eichel.",
+
+
+
+
+
+
+  "quest.Basic.x3": "Sammle einen Ahornsamen, einen gewöhnlichen Pilz und blaue Jazzblüten.",
+
+
+
+
+
+
+  "quest.Basic.x4": "Sammle eine Höhlenkarotte, einen Morchel und einen Mohn.",
+
+
+
+
+
+  "quest.Basic.x5": "Sammle einen Schachtelhalm, einen lila Pilz und eine Tulpe.",
+
+
+
+///NPCQuests///
+
+  "Annetta_quest.title": "Annetta liebt Brombeeren.",
+
+  "Annetta_quest.description": "Annetta hat freundlich nach Brombeeren von deinem Bauernhof gefragt.",
+
+  "Annetta_quest.objective": "Bring Annetta 5 Brombeeren.",
+
+
+
+///Lostitem//
+
+  "Annetta_quest2.title": "Verlorenes Skizzenbuch",
+
+  "Annetta_quest2.description": "Annetta hat ihr Skizzenbuch irgendwo im Wald verloren.",
+
+  "Annetta_quest2.objective": "Finde Annettas Skizzenbuch.",
+
+
+
+///StarFruitOrder///
+
+  "Annetta_quest3.title": "Sternfruchtverlangen",
+
+  "Annetta_quest3.description": "Annetta hat noch nie Sternfrucht probiert.",
+
+  "Annetta_quest3.objective": "Bring 2 Sternfrüchte zu Annetta's Wohnhaus.",
+
+
+
+  "dmttext.001": "Was ist das?",
+
+  "dmttext.002": "Hier liegt etwas auf dem Boden.",
+
+  "simplecabin.001": "Huh, was ist das? Da liegt ein seltsames Papier oder eine Karte auf dem Tisch.",
+
+//tv//
+
+  "Strings.Annettaupstairs.tv": "Es scheint nicht zu funktionieren, wenn ich es einschalte.",
+
+///secretnotes//
+
+  "Strings.Piratesnote.1": "15. Januar, 18XX ^^Ahoi, heute ist ein Tag, den ich in mein Logbuch eintragen muss, denn ich bin auf ein verborgenes Juwel inmitten dieses tückischen Meeres gestoßen. Mein Schiff entkam nur knapp den Klauen dieser niederträchtigen feindlichen Piraten. Um meinen kostbaren Schatz zu schützen, fand ich ein Versteck tief in einer Meeresgrotte.^^^^Bei niedrigstem Wasserstand und dem mystischen Schein des Mondes auf den Wassern machte ich mich vorsichtig auf den Weg in die Grotte, geführt nur von einer flackernden Fackel. Die Luft war erfüllt vom Duft von Salz und Abenteuer, und das Geräusch der Wellen, die gegen die Wände der Grotte schlugen, hallte in meinen Ohren wider. Die Erwartung des Unbekannten erregte mein Piratenherz, denn ich wusste, dieser Ort barg unerzählte Geheimnisse.^^^^Als ich tiefer in die Grotte vordrang, tanzte das schwache Licht auf den Wänden und enthüllte Glanz von Gold, Silber und kostbaren Edelsteinen. Es war ein wahrer Schatz, ein Anblick zum Staunen!^^^^Doch als ich auf die Reichtümer blickte, die vor mir lagen, wehte ein kalter Wind durch die Grotte und flüsterte Geschichten von Unglück, das diejenigen ereilte, die es wagten, diese Schätze zu begehren. Geschichten von verlorenen Seelen und geschätzten Erinnerungen hallten in meinem Kopf wider.^^^^Es verbreitet sich das Gerücht, dass die Flotte des Königs auf unserer Spur ist. Sie haben von unseren jüngsten Eskapaden Wind bekommen, und wir müssen im Nebel verschwinden, bevor sie uns entdecken. Ich habe einige meiner jüngsten Beute hinter einer gewaltigen Felswand versteckt, kehrte um und machte mich hastig auf den Rückzug. Avast ye! Ich schwöre bei meinen Planken, ich werde eines Tages in diese wunderbare Höhle zurückkehren, aber sollte ich von den räudigen Hunden geschnappt werden, sei dem, der dieses Pergament erblickt, gesagt, mein Schatz ist in der Grotte verborgen, die dem mächtigen salzigen Tief am nächsten liegt. Sucht nach einem verräterischen Zeichen an der Wand der Grotte, und denkt daran, nur die mächtigsten Spitzhacken können hindurchbrechen. Möge der Wind euch im Rücken sein und die Sterne euch zu den verborgenen Reichtümern führen.^^^^- Kapitän Schwarze Sirene",
+
+  "Strings.Piratesnote.2": "15. Januar, 18XX^^^^Heute fühle ich mich zu dieser geheimnisvollen Höhle hingezogen, wo Geheimnisse und Erinnerungen sich verweben wie die Wellen am Ufer. 'Tis ein Ort, wo meine Vergangenheit und meine Gegenwart aufeinandertreffen, und das Gewicht meiner Entscheidungen drückt auf mir.^^In diesem verzauberten Reich wiegt ein Hauch von Magie meine Seele, und ein Gefühl des Beobachtetwerdens erfüllt meine Sinne. Nicht von sterblichen Augen, sondern von einer rätselhaften Präsenz, die in diesen Höhlenwänden wohnt.^^Es erinnert mich an die Entscheidungen, die ich getroffen habe, die Wege, die ich gegangen bin, und die Schätze, die ich gesucht habe. Oh, wie die Vergangenheit mich immer noch verfolgt. Der Name, Captain Black Siren, trägt das schwere Gewicht meines vergangenen Ichs mit sich, und ich frage mich, ob Erlösung jemals wirklich gefunden werden kann.^^Das Meer und der Wind rufen mich mit einer Dringlichkeit zurück zum Schiff, die ich nicht ignorieren kann. Ich muss in See stechen und die Geheimnisse dieser Höhle vorerst hinter mir lassen.^^^^-Captain Black Siren",
+
+//essencequest//
+
+  "essence.quest.1": "Grüße, Wanderer.",
+  "essence.quest.2": "Ich bin seit Jahrhunderten ein Beobachter dieses Reiches. Die Winde tragen das Flüstern deiner Ankunft, und nun sind unsere Schicksale miteinander verflochten.",
+  "essence.quest.3": "Hol für mich das Wesen des Waldes: einen Tannenzapfen, einen Pilz und eine zarte Blume. Im Gegenzug werde ich den Weg erleuchten, der vor dir liegt.",
+  "essence.quest.4": "Sehr gut, Sterblicher. Der Weg des Schicksals liegt in deiner Hand.",
+  "essence.quest.5": "In der Ruhe von Mutters Natur wirst du die Essenz finden, die du suchst.",
+  "essence.quest.6": "Eine Zusammenkunft von Elementen erwartet dich, wo Harmonie und Leben miteinander verwoben sind.",
+  "essence.quest.7": "Schreite voran, denn die Antworten, die du suchst, warten auf dich. Lass die Essenz der Natur dich leiten.",
+  "essence.quest.8": "Wenn die Sonne an einem neuen Tag aufgeht, kehre in diese Höhle zurück. Der Weg, den du suchst, wird erleuchtet...",
+
+  "essence.farmer.1": "Wer ist da?",
+  "essence.farmer.2": "Höre ich Dinge?",
+  "essence.farmer.3": "Was suchst du von mir?",
+  "essence.farmer.4": "Machst du Witze?",
+  "essence.farmer.5": "Betrachte es erledigt.",
+  "essence.farmer.6": "Ich bin mit anderen Aufgaben beschäftigt.",
+
+  "essence.quest.8081": "Bring mir das Wesen des Waldes - einen Erdkristall, Quarz und einen roten Pilz. Im Gegenzug werde ich den Weg vor dir erleuchten.",
+
+
+  "essence.quest.8082": "Bring mir das Wesen des Waldes - eine Narzisse, einen Pfifferling und eine Eichel. Im Gegenzug werde ich den Weg vor dir erleuchten.",
+
+
+  "essence.quest.8083": "Bring mir das Wesen des Waldes - einen Ahornsamen, einen gewöhnlichen Pilz und einen blauen Jazz. Im Gegenzug werde ich den Weg vor dir erleuchten.",
+
+
+  "essence.quest.8084": "Bring mir das Wesen des Waldes - eine Höhlenkarotte, einen Morchel und einen Mohn. Im Gegenzug werde ich den Weg vor dir erleuchten.",
+
+
+  "essence.quest.8085": "Bring mir das Wesen des Waldes - einen Fiddlehead-Farn, einen lila Pilz und eine Tulpe. Im Gegenzug werde ich den Weg vor dir erleuchten.",
+
+  "quest.data.title": "Die Geheimnisse der Kap-Höhle",
+
+  "quest.data.1": "Du hast den Eingang zur Kap-Höhle im Südwesten des Zindersap-Waldes entdeckt.",
+
+  "quest.data.2": "Wage dich tiefer in die Höhle, um ihre Geheimnisse zu enthüllen.",
+
+
+
+  "UB.simplec": "Einfache Hütte",
+
+  "UB.title1": "Krokusgarten Sammlung",
+
+  "UB.title2": "Kristallernte",
+
+  "UB.title3": "Wiesen-Schätze",
+
+  "UB.title4": "Ahornwald-Wunder",
+
+  "UB.title5": "Höhlenfreuden",
+
+  "UB.title6": "Mystische Pflanzenfunde",
+
+  "UB.title.summer": "Sommerlicher Glanz",
+
+  "UB.BridgeTitle": "Brückenreparatur",
+
+
+  "Jelli.Introduction.1": "Hey, Wanderer! Du bist so weit zu diesem geheimen Ort gereist. Ich bin Jelli, der Wächter der Meereshöhle.$1",
+  "Jelli.Introduction.2": "Du hast die alte Brücke repariert und bist an einen Ort gegangen, an den nicht viele gelangen. Das Meer flüstert von dir, und das Leuchten des Ozeans zeigt die Magie in deinem Herzen.",
+  "Jelli.CharacterDialogue.001": "Fühle die kühle Umarmung des Meeres, wenn du die Höhle betrittst. Die Strömungen werden dich tiefer in dieses verborgene Reich führen.$7",
+  "Jelli.CharacterDialogue.002": "Lass die Echos des Meeres deine Begleiter sein, während du zurück an die Oberfläche gehst.$7",
+  "Jelli.CharacterDialogue.003": "Steh am Ufer und lass die Wellen Geschichten aus den Tiefen erzählen.",
+  "Jelli.CharacterDialogue.004": "Die Meereshöhle bewahrt ihre Geheimnisse nah, wartend auf diejenigen, die Rätsel suchen. Erkunde und entdecke, mein Freund!$7",
+  "Jelli.CharacterDialogue.005": "An diesem Montag ist die Energie des Meeres ruhig. Die Gewässer in der Höhle spiegeln den Frieden darüber wider.",
+  "Jelli.CharacterDialogue.006": "Wenn der Tag zum Abend wird, wird die Meereshöhle magisch. Das Wasser tanzt mit dem schwindenden Licht.",
+  "Jelli.CharacterDialogue.007": "Nimm dir einen Moment Zeit zum Nachdenken, denn das Meer spiegelt sowohl Vergangenheit als auch Gegenwart.$4",
+  "Jelli.CharacterDialogue.008": "Die Meereshöhle summt vor leiser Energie. Lass die ruhigen Gewässer deinen Geist beruhigen.$7",
+  "Jelli.CharacterDialogue.009": "Hör genau hin, und du könntest die Geheimnisse des Meeres hören.",
+  "Jelli.CharacterDialogue.010": "Der Gezeitenwechsel am Donnerstag bringt Aufregung. Die Höhle ist bereit, ihre Wunder zu zeigen.",
+  "Jelli.CharacterDialogue.011": "Das Meer flüstert Geschichten aus alten Zeiten. Hör zu, und vielleicht bekommst du einen Blick auf vergessene Legenden.",
+  "Jelli.CharacterDialogue.012": "Die Geheimnisse der Meereshöhle werden noch tiefer.",
+  "Jelli.CharacterDialogue.013": "Die Wellen am Freitag bringen einen verspielten Geist.",
+  "Jelli.CharacterDialogue.014": "Die Meereshöhle leuchtet mit einem sanften Licht. Die Gewässer halten die Essenz der Dämmerung.",
+  "Jelli.CharacterDialogue.015": "Der Rhythmus des Meeres hallt durch die Höhle.",
+  "Jelli.CharacterDialogue.016": "Die Meereshöhle hallt vor Freude. Genieße die Magie um dich herum.",
+  "Jelli.CharacterDialogue.017": "Der Sonntag bringt ein Gefühl der Erneuerung.",
+  "Jelli.CharacterDialogue.018": "Die Meereshöhle funkelt mit einem sanften Glanz.$7",
+  "Jelli.CharacterDialogue.019": "Weißt du von der Schönheit, die sich unter der Oberfläche entfaltet?",
+  "Jelli.SpringDialogue.001": "Ah, die sanfte Brise des Frühlings! Sie flüstert Geheimnisse neuer Anfänge.",
+  "Jelli.SummerDialogue.001": "Die Wärme des Sommers umhüllt die Höhle, und die Geister tanzen in den schimmernden Wellen.",
+  "Jelli.FallDialogue.001": "Während die Herbstblätter fallen, fallen auch die Erinnerungen in der Höhle. Geisterhafte Flüstern weben Geschichten von längst vergangenen Jahreszeiten. Sei vorsichtig, während du erkundest.",
+  "Jelli.WinterDialogue.001": "Der Winterkälte mag die Echos der Höhle dämpfen, aber die Geister bleiben wachsam.",
+
+  "Jelli.Gifts.Loved": "Wow, das ist das coolste Ding überhaupt! Du bist der netteste Freund überhaupt. Vielen Dank!$7",
+  "Jelli.Gifts.Liked": "Oh, das ist wirklich schön! Du bist gut darin, coole Sachen auszuwählen. Danke, Freund!$6",
+  "Jelli.Gifts.Disliked": "Hmm, das ist irgendwie seltsam. Ich verstehe es nicht wirklich, aber trotzdem danke. Du bist immer noch ein guter Freund!$2",
+  "Jelli.Gifts.Hated": "Dieses Geschenk passt leider nicht zum Meer. Die Strömungen flüstern Missbilligung.$5",
+  "Jelli.Gifts.Neutral": "Oh, das ist in Ordnung! Nicht mein Favorit, aber es ist nett, dass du an mich gedacht hast. Danke!$4",
+
+  "Jelli.schedule.001": "Vor dir liegt ein Labyrinth von Höhlen, sei vorsichtig, dass du dich nicht verlierst, aber wenn du es tust, werden die Warp-Punkte dich zurück zum Ausgangspunkt führen.",
+  "Jelli.schedule.002": "Monster wohnen in den Tiefen, schwimme mit Vorsicht, Sterblicher, und sei auf die Herausforderungen vorbereitet, die dich erwarten.",
+  "Jelli.schedule.003": "Die Warp-Punkte bringen dich zum Eingang des Labyrinths zurück.",
+  "Jelli.schedule.004": "Die Meereshöhle ist voller Überraschungen für diejenigen, die es wagen, ihre Tiefen zu erkunden.",
+  "Jelli.schedule.005": "Dieser Ort ist ein Labyrinth aus Geheimnissen und Gefahren. Ich habe diese Gänge viele Male erkundet.",
+
+  "Jelli.Event.Dialogue1": "Hallo, gütige Seele! Ich bin Jelli, ein Meeresgeist, der in dieser geheimnisvollen Höhle wohnt. Dein Mut, hierher zu kommen, bleibt nicht unbemerkt. #$b# Dieser Ort ist voller Echos der Vergangenheit und wird von Geistern bewacht, die Frieden suchen.",
+  "Jelli.Event.Dialogue2": "Ich habe deine Ankunft gespürt, und es gibt etwas an dir, das mit den Energien dieser Höhle in Resonanz steht. #$b# Das Entschlüsseln ihrer Geheimnisse könnte eine uralte Präsenz geweckt haben.",
+  "Jelli.Event.Dialogue3": "Die Höhle wird von bösartigen Geistern heimgesucht, und deine bloße Anwesenheit scheint sie gestört zu haben. Sei vorsichtig, wenn du dich entscheidest, weiter vorzudringen.$3",
+  "Jelli.Event.Dialogue4": "Wage dich voran, Schatzsucher! Zwischen Echos und Schatten, web die Geschichte unermüdlichen Mutes. Doch hüte dich vor alten Geheimnissen, die in den Tiefen lauern.$1",
+
+
+  "Jelli.Event.Dialogue5": "Sieh genau hin.$6",
+
+
+  "Jelli.Question.001": "Was meinst du, bist du ein magisches Wesen?",
+  "Jelli.Question.002": "Wie kann ich dich verstehen? Benutzt du irgendeine Art von Magie, um mit mir zu sprechen?",
+  "Jelli.Response.001": "Genau! Es ist ein Hauch von Magie, der es uns ermöglicht, zu kommunizieren. Die Höhle hat eine Art, Geister und Wanderer wie dich zu verbinden.",
+  "Jelli.Response.002": "Ah, die Geheimnisse der Höhle, mein Freund! Lass uns einfach sagen, wo Magie fließt, finden Worte ihren Weg.",
+
+ //////////////////////////////////////////////////////////////////////////////////SpecialOrders//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///AnnettaCoastalOrder//
+  "Annetta.CollectionOrder.Name": "Luau-Anfrage",
+  "Annetta.Collection.Text": "Während die Sommersonne Pelikanstadt bescheint, stelle ich etwas Besonderes für das bevorstehende Luau her. Ich brauche deine Hilfe, um 5 Küstenelemente zu sammeln. Kann ich auf dich zählen? Bitte bring sie mir persönlich. Mit Dank, Annetta.",
+  "Annetta.Objective.Text": "Sammle etwas Essbares aus dem Ozean oder von der Küste für Annetta.",
+
+  "Annetta.Objective.Message": "Oh, wunderbar! Du hast den Küstengegenstand gebracht, den ich gebraucht habe. Deine Großzügigkeit wird von allen Anwesenden in Erinnerung behalten. Danke für deinen Beitrag!",
+
+  "coastalorder.1": "Hallo @,^^Ich möchte dir von Herzen für deine Hilfe bei meiner speziellen Anfrage danken. Dein Engagement, diese Küstengegenstände zu sammeln, hat wirklich einen Hauch von Magie zu meinem bevorstehenden Gericht hinzugefügt, das ich zum Luau beitragen möchte. Dein Beitrag wird sehr geschätzt.^^Ich freue mich auf weitere Zusammenarbeit in der Zukunft.^^Mit herzlichen Grüßen,^^-Annetta",
+
+
+
+
+
+///Culinaryspecialorder//
+  "Annetta_Name": "Kulinarische Köstlichkeiten",
+  "Annetta_Text": "Hey! Ich arbeite an einem kulinarischen Projekt, um meinen Ort an der Küste mit den Aromen des Ozeans zu bereichern. Ich suche nach einzigartigen Zutaten, um meinen Gerichten einen Hauch von Magie zu verleihen. Kannst du mir helfen, einige exquisite Gegenstände zu finden? Deine Kochkünste und dein Sinn für Abenteuer wären perfekt dafür. Bitte bring sie mir persönlich.               -Annetta",
+
+  "Annetta_Objective_0_Text": "Um das Wesen des Meeres einzufangen, suche nach Gegenständen wie Meeresfrüchten, ozeanischen Fischen oder allem, was die Aromen des Ozeans verkörpert.",
+
+  "Annetta_Objective_1_Text": "Für eine köstliche Ernte-Medley solltest du frisches Gemüse, Sammelobjekte oder hochwertige Produkte mitbringen, die die Fülle der Natur zeigen.",
+  "Annetta_Objective_2_Text": "Durchdringe die Essenz der Natur, indem du Gegenstände wie Früchte und Beeren auswählst.",
+
+  "Annetta_Objective_3_Text": "Meistere die Kunst des Brotes, indem du Gegenstände wie Backwaren, Kunsthandwerksbrot oder alles wählst, was das Handwerk feiner Bäckereiartikel widerspiegelt.",
+  "Annetta_Objective_4_Text": "Kreiere eine süße Symphonie, indem du Gegenstände wie Desserts, Süßigkeiten oder alles auswählst, was die Geschmacksknospen mit verführerischen Köstlichkeiten verwöhnt.",
+
+
+
+  "Annetta_Objective_1_Message": "Ah, die Aromen des Ozeans! Diese Zutaten werden meiner kulinarischen Kreation den perfekten Touch verleihen. Danke!",
+
+  "Annetta_Objective_2_Message": "Die Gaben der Natur! Diese frischen Zutaten werden eine köstliche Mischung in meine Gerichte bringen. Sehr geschätzt!",
+
+  "Annetta_Objective_3_Message": "Die Essenz der Natur selbst! Diese Früchte und Beeren werden mein kulinarisches Projekt mit einem Hauch von natürlicher Süße bereichern. Wunderbare Wahl!",
+
+  "Annetta_Objective_4_Message": "Die Kunst des Brotbackens! Diese Backwaren und das handwerkliche Brot werden meine Gerichte aufwerten. Dein Beitrag wird wirklich geschätzt!",
+
+  "Annetta_Objective_5_Message": "Eine süße Symphonie in der Tat! Diese Desserts und süßen Leckereien werden das perfekte Finale für meine kulinarischen Kreationen sein. Danke für deine verwöhnenden Köstlichkeiten!",
+
+///fallspecialorder///
+
+
+  "Annetta_Fall_Name": "Spirit's Eve kulinarische Beiträge",
+  "Annetta_Fall_Text": "Grüße! Während wir uns dem bezaubernden Spirit's Eve Festival am 27. Herbst nähern, suche ich Hilfe beim Sammeln von Wildpflanzen, Gemüse oder anderen Lebensmitteln, um zu den Festlichkeiten beizutragen. Kannst du mir helfen, die besten Herbstgegenstände zu sammeln? Bitte bring sie mir persönlich vorbei. Danke!               -Annetta",
+  "Annetta_Fall_Objective_0_Text": "Um die Feierlichkeiten zu beginnen, suche ich nach Gegenständen, die das Wesen der Saison verkörpern. Gegenstände wie Brombeeren, wilde Pflaumen oder Granatäpfel wären perfekt.",
+  "Annetta_Fall_Objective_1_Text": "Lass uns das Fest von Geisterabend mit der Süße von Früchten bereichern. Finde Früchte, die mit dem Herbstgeist in Einklang stehen.",
+  "Annetta_Fall_Objective_2_Text": "Um einen Hauch von Wärme und Farbe zu unseren kulinarischen Beiträgen hinzuzufügen, brauche ich Gegenstände in Orangetönen und Brauntönen. Suche nach süßen Leckereien oder Backwaren, die die festliche Atmosphäre einfangen.",
+  "Annetta_Fall_Objective_3_Text": "Für das große Finale unserer Geisterabend-Festival-Leckereien bring mir Desserts und Süßigkeiten, die das Wesen der herbstlichen Süße verkörpern.",
+  "Annetta_Fall_Objective_4_Text": "Lass uns diesen Geisterabend unvergesslich machen! Suche nach Herbstgemüse, um einen köstlichen Beitrag zu unserer jährlichen Feier zu leisten.",
+  "Annetta_Fall_Objective_1_Message": "Ah, die herzhaften Köstlichkeiten des Herbstes! Diese Gegenstände werden den perfekten Ton für unsere kulinarischen Beiträge zum Geisterabend setzen. Danke!",
+  "Annetta_Fall_Objective_2_Message": "Die Süße der Herbstfrüchte! Diese Gegenstände werden unserem jährlichen Fest einen köstlichen Touch verleihen. Sehr geschätzt!",
+  "Annetta_Fall_Objective_3_Message": "Wärme und Farbe überall! Diese Leckereien werden unser Spirit's Eve Fest erhöhen. Wunderbare Wahl!",
+  "Annetta_Fall_Objective_4_Message": "Ein grandioses Finale in der Tat! Diese Desserts und süßen Leckereien werden den perfekten Abschluss zu unseren kulinarischen Beiträgen zum Spirit's Eve Fest bilden. Danke, dass du unsere jährliche Feier besonders machst!",
+  "Annetta_Fall_Objective_5_Message": "Ein vielfältiges Fest erwartet uns! Deine Kombination aus hochwertigen Herbstgemüsen wird unsere Spirit's Eve Feier wirklich außergewöhnlich machen. Danke für deine kulinarischen Beiträge jedes Jahr!",
+
+  "annetta_fall_culinary_completion": "Grüße!^^Ich möchte dir von Herzen für deine Hilfe bei meiner besonderen Anfrage danken. Dein Engagement beim Sammeln dieser Herbstgegenstände hat meinen kulinarischen Beiträgen zum Spirit's Eve Festival wirklich einen Hauch von Magie verliehen. Als Zeichen der Wertschätzung habe ich ein besonderes Geschenk für dich beigefügt.^^Ich freue mich auf weitere Zusammenarbeit in der Zukunft.^^Mit herzlichen Grüßen,^^-Annetta",
+
+
+  "anet.visitmail1": "Hey @,^^Ich habe ein Licht in der Hütte gesehen. Jemand hat sie kürzlich repariert, warst du das?^^Beste Wünsche,^Annetta^^",
+
+  "anet.visitmail2": "Hüttenlicht",
+
+  "anet.lakemail1": "Hallo @!^^Ich hoffe, dieser Brief erreicht dich wohl. Ich hatte neulich so eine schöne Zeit, als wir am See spazieren gegangen sind. Die Ruhe des Zunderzapfenwaldes bringt immer ein Gefühl von Frieden.^^Als Zeichen meiner Wertschätzung und um die Erinnerungen, die wir gemacht haben, zu bewahren, möchte ich dir etwas geben. Es ist etwas, das ich gefunden habe, während wir zusammen spazieren waren. Ich dachte, du würdest es gerne haben.^^Ich freue mich darauf, mehr Zeit mit dir zu verbringen, die Schönheit unserer Stadt zu erkunden und dich besser kennenzulernen.^^Mit herzlichen Grüßen,^Annetta",
+
+  "anet.lakemail2": "Dankesnotiz",
+
+  "annetta.cooking.mail": "Hallo @,^^Ich bin dir wirklich dankbar für deine Hilfe!^Als Zeichen der Wertschätzung nimm bitte dieses exklusive Rezept an. Ich hoffe, es inspiriert dich und bereichert deine eigene kulinarische Reise. Viel Spaß beim Kreieren und Genießen der Aromen!^^-Annetta",
+
+///snowygourmetfeast///
+  "Annetta_Winter_Name": "Schneereiches Gourmetfest",
+  "Annetta_Winter_Text": "Hey! Ich arbeite an einem kulinarischen Projekt, um Wärme in mein Zuhause an der Küste während des Winters zu bringen. Ich suche nach einzigartigen Zutaten, um meinen Gerichten einen Hauch von Magie zu verleihen. Kannst du mir helfen, einige exquisite Gegenstände zu finden? Deine Kochkünste und dein Sinn für Abenteuer wären perfekt dafür. Bitte bring sie mir direkt. Danke!                 -Annetta",
+  "Annetta_Winter_Objective_0_Text": "Um das Wesen des Winters einzufangen, suche nach Gemüse, Winterfischen oder allem, was die Aromen der Saison verkörpert.",
+  "Annetta_Winter_Objective_1_Text": "Für ein köstliches Winterfest bring Früchte, Beeren oder alles mit, was mit dem Fest in Einklang stehen könnte.",
+  "Annetta_Winter_Objective_2_Text": "Wähle Gegenstände wie schneethemenbasierte Desserts, winterliche Süßigkeiten oder alles, was den Charme der Saison widerspiegelt! Zum Beispiel die Farben Weiß und Blau.",
+  "Annetta_Winter_Objective_3_Text": "Kreiere eine Wintersymphonie, indem du Gegenstände wie Wintersuppen, herzhafte Eintöpfe oder alles auswählst, was die Seele in der kalten Jahreszeit wärmt.",
+  "Annetta_Winter_Objective_4_Text": "Feiere die Winterfestlichkeiten mit Gegenständen wie Wintergetränken und gemütlichen Drinks.",
+  "Annetta_Winter_Objective_1_Message": "Ah, die Aromen des Winters! Diese Zutaten werden meiner kulinarischen Kreation den perfekten Touch verleihen. Danke!",
+  "Annetta_Winter_Objective_2_Message": "Die winterliche Fülle der Natur! Diese frischen Zutaten werden ein köstliches Festmahl für meine Gerichte zaubern. Sehr geschätzt!",
+  "Annetta_Winter_Objective_3_Message": "Der Charme des Winters selbst! Diese schneethemenbezogenen Desserts und Winterleckereien werden meine Gerichte aufwerten. Dein Beitrag wird wirklich geschätzt!",
+  "Annetta_Winter_Objective_4_Message": "Eine Winter-Symphonie in der Tat! Diese Wintersuppen und herzhaften Eintöpfe werden die perfekte Wärme für meine kulinarischen Kreationen sein. Danke!",
+  "Annetta_Winter_Objective_5_Message": "Prost auf die Winterfestlichkeiten! Diese Wintergetränke und gemütlichen Drinks werden meinen kulinarischen Kreationen einen festlichen Touch verleihen. Wunderbare Wahl!",
+
+  "annetta_winter_culinary_completion": "Hallo @,^^Ich bin dir wirklich dankbar für deine Hilfe. Dein Einsatz beim Sammeln dieser Wintergegenstände hat meinen Gerichten einen Hauch von Magie verliehen. Als Zeichen der Wertschätzung habe ich ein besonderes Geschenk für dich beigefügt.^^Ich freue mich auf weitere Zusammenarbeit in der Zukunft.^^Mit herzlichen Grüßen,^^-Annetta",
+
+//spring//
+//AnnettaSpring//
+
+  "Annetta_Spring_Name": "Frühlingsinspiration",
+  "Annetta_Spring_Text": "Ich habe gerade ein neues Gemälde fertiggestellt, aber meine Vorstellungskraft schwebt schon zum nächsten! Ich suche nach etwas Seltenem und Außergewöhnlichem – einem Objekt, das die Schönheit des Frühlings in goldenen oder gelben Farbtönen einfängt. Kannst du mir helfen, so etwas zu finden?",
+  "Annetta_Spring_Objective_0_Text": "Finde einen seltenen Gegenstand in Gelb- oder Goldtönen für Annettas neues Gemälde.",
+  "Annetta_Spring_Objective_0_Message": "Oh, wie entzückend! Das ist genau die Inspiration, die ich gebraucht habe. Vielen Dank, @",
+
+//prettystonespecialorder//
+
+  "Annetta_PrettyStone_Name": "Steinsammlung",
+  "Annetta_PrettyStone_Text": "Ich habe in letzter Zeit immer wieder diese seltsamen Träume... von einem schönen Stein unter Wasser. Er ist glatt und glänzend, fast so, als würde er mich rufen. Ich weiß nicht, was das bedeutet, aber wenn jemand einen Stein wie diesen findet, würde ich ihn gerne für meine Sammlung haben. Vielleicht ist es nichts, aber es fühlt sich irgendwie wichtig an. - Annetta",
+
+  "Annetta_PrettyStone_Objective_Text": "Suche am Kap Sternentau nach einem besonderen Stein und liefere ihn an Annetta.",
+  "Annetta_PrettyStone_Objective_Message": "Vielen Dank, dass du das gebracht hast, ein schöner Stein! Er ist sogar schöner, als ich mir vorgestellt habe. Dein Beitrag ist für mich von unschätzbarem Wert.",
+//////////////////////////////////////////////////////////////////////////////////EndSpecialOrders//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+//oceantreasure//
+
+  "oceantreasure_Translated": "Ein Gemälde, das von Annetta geschaffen wurde.",
+
+//jellidialogue//
+  "Jelli.Rain.001": "Regen ist wie das Lied der Natur, das eine sanfte Melodie für die Erde spielt.#$b#Jeder Tropfen ist wie eine kleine Nachricht von den Wolken, die uns erinnert, wie alles zusammenpasst, genau wie ein Puzzle!#$b#Also, wenn es regnet, ist es, als würde die Erde eine große, gemütliche Umarmung bekommen, und alle Pflanzen und Kreaturen tanzen vor Freude!#$b#Lass es auf dich sprenkeln, die Sorgen wegwaschen und dich mit der Magie der Melodie der Natur erfüllen! Und denk immer daran, selbst in den wildesten Stürmen gibt es etwas Schönes, das darauf wartet, entdeckt zu werden.",
+//jelligreenrain//
+  "Jelli.GreenRain.001": "Ah, grüner Regen... Das Rätsel der Natur, ein Puzzle zum Nachdenken.#$b#Im Herzen des Sommers, wenn das Leben blüht und gedeiht, warum weint die Erde smaragdgrüne Tränen?#$b#Vielleicht ist es ein Flüstern aus den Tiefen, eine Erinnerung daran, dass selbst in Fülle das Land nach Erneuerung strebt.#$b#Oder vielleicht ist es einfach der Tanz der Elemente, eine Symphonie aus Chaos und Harmonie.#$b#Wer kann das schon wirklich sagen? Die Geheimnisse der Natur sind so tief wie der Ozean selbst.",
+
+
+//Quest1MysticalCavernExploration//
+  "Quest.Dialogue.001": "Mystische Höhlenexploration",
+  "Quest.Dialogue.002": "Jelli spürt eine mysteriöse Aura, die aus den Tiefen der Höhle strömt. Erkunde die Gegend, um ihre Geheimnisse zu entdecken.",
+  "Quest.Dialogue.003": "Untersuche die Höhlen.",
+  "Quest.Dialogue.004": "Schaltet eine neue Quest frei.",
+
+//Quest2ReturntoJelli//
+  "Quest.Dialogue2.001": "Kehre zu Jelli zurück.",
+  "Quest.Dialogue2.002": "Du hast etwas Interessantes in der Höhle entdeckt. Kehre zu Jelli zurück und teile mit, was du gefunden hast.",
+  "Quest.Dialogue2.003": "Es gibt etwas an deinem neuesten Entdeckung, das mehr Bedeutung haben könnte. Jelli könnte Einsicht bieten.",
+  "Quest.Dialogue2.004": "Berichte Jelli von deinen Entdeckungen.",
+  "Jelli_questsearch.reaction": "Hast du etwas Seltsames in den Höhlen gefunden?",
+
+
+//JelliLunarShardsquestdialogue//
+  "Dialogue.QuestionEvent_Jelli": "Reisender, die Kreaturen der Höhle haben in letzter Zeit Unruhe gestiftet. Ich bin vorsichtig, mich von der Sicherheit des Wassers zu entfernen. Würdest du helfen, den Frieden wiederherzustellen?",
+
+  "Dialogue.QuestionFork_Response1": "Aye, zähl mich dazu!",
+
+  "Dialogue.QuestionFork_Response2": "Hmm, das ist ganz schön herausfordernd...",
+
+  "Dialogue.Jelli_quest1": "Ich verstehe. Deine Sicherheit hat für mich oberste Priorität. Wenn du es nicht bewältigen kannst.",
+
+  "Dialogue.Jelli_quest2": "Danke, dass du zugestimmt hast zu helfen! Vor dir liegt eine Meeres-Höhle, die von bedrohlichen Knurren und Knurren widerhallt. Untersuche sie, und wenn du dich verteidigen musst, zögere nicht, mindestens drei zu erledigen. Das könnte sie dazu bringen, sich weiter in die Höhle zurückzuziehen.",
+
+  "Dialogue.Jelli_quest3": "Ah, Raptors, die in den Tiefen lauern? Es scheint, als wären sie aus den Minen in unser Reich vorgedrungen. Hast du drei von ihnen erledigt? Das ist großartig! Mit etwas Glück werden sie sich zurückziehen und die Ruhe in die Meeres-Höhle zurückbringen.",
+
+  "Dialogue.Jelli_quest4": "Als Zeichen der Dankbarkeit hier sind 1000 Gold für deinen Mut.",
+
+
+///Monstereradication///
+
+  "Quest.Title.Monster": "Wächter der Tiefe",
+  "Quest.Title.GuardiansOfTheDeep": "Bedrohungen abwehren",
+  "Quest.Dialogue.GuardiansOfTheDeep": "Die ruhigen Tiefen der Meereshöhle sind von feindlichen Kreaturen bedroht. Besiege drei dieser Kreaturen, um die Sicherheit der Bewohner der Höhle zu gewährleisten.",
+
+
+  //returndinosquest///
+  "Quest.MDialogue2.001": "Quest abgeschlossen",
+  "Quest.MDialogue2.002": "Kehre zu Jelli zurück",
+  "Quest.MDialogue2.003": "Kehre zu den Tiefen der Meereshöhle zurück und finde Jelli.",
+  "Quest.MDialogue2.004": "Sprich mit Jelli und berichte über deinen Erfolg beim Besiegen der Dinos.",
+  "Jelli_questM.reaction": "Die Raptoren in den Tiefen, ein perplexes Rätsel in der Tat. Dein Sieg über sie ist ein Beweis für dein Können und deinen Mut. Gemeinsam werden wir diese Herausforderungen meistern und Harmonie in die Meeresgrotten zurückbringen.",
+
+  ///lunarcrystalevent//
+
+
+  "Dialogue.QuestionEvent2_Jelli": "Grüße, tapferer Abenteurer! Welche Schätze hast du von deiner Reise mitgebracht?",
+  "Dialogue.QuestionFork2_Response1": "Ein Mondkristallsplitter",
+  "Dialogue.QuestionFork2_Response2": "Ein Geheimnis für jetzt...",
+  "Dialogue.Jelli2_quest1": "Mögen die sanften Wellen deinen Weg zu neuen Abenteuern leiten!",
+  "Dialogue.Jelli2_quest2": "Ah, ein Mondkristallsplitter! Wie entzückend! Diese schimmernden Kristalle besitzen immense Kraft, weißt du. Sie sind wie kleine Sterne, die in Stein gefangen sind und die Aufmerksamkeit neugieriger Geister und Kreaturen auf sich ziehen!",
+  "Dialogue.QuestionEvent2_Jelli2": "Wärst du bereit, dich davon zu trennen für einen edlen Zweck? Ich verspreche, es wird in guten Händen sein.",
+  "Dialogue.QuestionFork3_Response1": "Natürlich, Jelli. Alles, um zu helfen.",
+  "Dialogue.QuestionFork3_Response2": "Ich bin mir noch nicht sicher...",
+  "Dialogue.Jelli_Lunar": "Oh, danke, gütige Seele! Mit diesem Splitter können meine wässrigen Studien weiter funkeln und schimmern.",
+  "Dialogue.Jelli_endquest": "Mögen die Strömungen dich sicher durch deine Abenteuer tragen!",
+
+  //jellimail//
+  "Jelli_lunar_completion": "Hallo @^^^^Danke für den Mondkristallsplitter! Deine Freundlichkeit ist nicht unbemerkt geblieben.^^^^Ich wollte dir ein Zeichen meiner Wertschätzung anbieten. Komm bitte wieder in die Meereshöhle. Ich habe einen kleinen Schatz aus den Tiefen des Meeres.^^^^Mögen die Strömungen dich sicher durch deine Abenteuer tragen, und mögest du immer Freude an den einfachen Schätzen des Lebens finden.^^^^Jelli",
+
+
+//Quest3MissingSeed//
+  "Quest.Title.Seed": "Der fehlende Samen",
+  "Quest.Title.SeedSearch": "Jelli sucht einen seltenen Tidebloom-Samen, der in der Höhle verloren gegangen ist. Durchsuche den Bereich in der Nähe der lunaren Kristallsplitter.",
+  "Quest.Dialogue.SeedSearch": "Jelli hat erwähnt, dass der Tidebloom-Samen von einem geheimnisvollen Wesen in der Höhle bewacht werden könnte. Halte Ausschau nach Anzeichen von Gefahr!",
+  "Jelli_questseed.reaction": "Du bist zurückgekehrt! Ich sehe, du hast den Tidebloom-Samen mitgebracht. Nimm sie und pflanze sie im Winter und bring den Nektarkristall zurück, der aus der Tidebloom-Blume blüht. #$b# Da ich nicht an Land gehen kann, kann nur unsere besondere Verbindung uns erlauben, die besonderen Energien der alten Tidebloom-Pflanze zu suchen.",
+
+  "Jelli_questseed.reaction2": "Komm mit dem Kristall zurück, sobald du bereit bist.",
+
+
+
+
+
+///part2//
+  "Quest.Title.MysteriousRelics": "Mysterious Fruit",
+
+  "Quest.Dialogue.MysteriousRelics": "Jelli hat dir geheimnisvolle Samen gegeben. Pflanze sie und schau zu, wie sie wachsen.",
+
+  "Quest.Hint.001": "Ernte eine geheimnisvolle Frucht für Jelli.",
+
+//Part3//
+
+  "Quest.Title.ItemDelivery": "Ozeans Geschenk",
+
+  "Quest.Title.OceansOffering": "Biete Jelli die geernteten Waren an.",
+
+  "Quest.Dialogue.OceansOffering": "Liefer den geheimnisvollen Kristall an Jelli.",
+
+  "Quest.Completion.Reward": "Welche Geheimnisse hält dieser Kristall? Frag Jelli!",
+
+  "Quest.ItemDelivery.Response": "Während eines besonderen Segens setzt der Nektar-Kristall seine magische Energie frei, wir verwenden leuchtende Muscheln als Leitungen, die ein überirdisches Licht ausstrahlen. Jetzt brauchen wir 10 Muschelschalen, damit wir sie in spezielle Muscheln verwandeln können. Bitte sammle 10 Muschelschalen.",
+
+
+////QUEST2SeaFestival///
+
+//part1//
+  "Quest.Title.Basic": "Ein Meeresfest",
+
+  "Quest.Title.SeaFestival": "Hilf Jelli, ein magisches Meeresfest zu organisieren. Trage dazu bei, indem du 10 Muscheln sammelst.",
+
+  "Quest.Dialogue.SeaFestival": "Sammle 10 Muscheln.",
+
+  "Quest.Dialogue.SeaFestival2": "Bring die Muschelschalen zu Jelli für das Festival.",
+
+  "Quest.Dialogue3.001": "Berichte zurück an Jelli.",
+
+  "Quest.Dialogue3.002": "Du hast 10 Muscheln gesammelt, kehre zu Jelli zurück!",
+
+  "Quest.Dialogue3.003": "Finde deinen Weg zurück zu Jelli.",
+
+  "Quest.Dialogue3.004": "Jelli braucht diese Muscheln für einen mystischen Zweck.",
+
+
+  "Quest2.ItemDelivery.Response": "Ah, Abenteurer! Deine Sammlung von Muscheln ist wirklich prächtig. Diese Muscheln, wenn sie mit der magischen Essenz des Nektarkristalls kombiniert werden, erzeugen ein faszinierendes Schauspiel in der Höhle. Lass mich dich über die bezaubernde Synergie zwischen diesen Elementen aufklären. #$b# Die Muscheln, erleuchtet von strahlender Energie, dienen als Leitungen für die ätherischen Kräfte des Meeres. Wenn sie mit der Essenz des Nektarkristalls durchdrungen werden, entfaltet sich eine magische Reaktion, die die Höhle in einem lebhaften Farbenspiel erleuchtet. Es ist ein Anblick, den man gesehen haben muss, eine Feier der Wunder des Meeres!",
+
+
+  "Quest.Title.Preparations": "Vorbereitungen für das Meeresfest",
+  "Quest.Dialogue.Preparations": "Mit der Sammlung der 10 Muscheln und dem Nektarkristall ist Jelli nun bereit, sich auf das Meeresfest vorzubereiten. Jelli braucht deine Hilfe, um Seegras vom Strand zu sammeln, um für das Fest zu dekorieren.",
+  "Jelli_questpreparations.reaction": "Danke für deine Hilfe beim Sammeln des Seegrases! Die Dekorationen für das Meeresfest kommen wunderbar voran. Komm bald wieder, ich lasse dich wissen, wann das Fest stattfinden wird.",
+
+
+  "Jelli_quest.festival1": "Ah, du bist mit den Seegras-Dekorationen zurückgekehrt! Ausgezeichnete Arbeit, @",
+
+  "Jelli_quest.festival2": "Mit diesen Dekorationen wird das Seefest wirklich großartig sein. Danke für deinen Beitrag! Komm bald wieder, ich lasse dich wissen, wann das Fest stattfinden wird.",
+
+///customitems//
+
+  "Pretty-Stone_Translated": "Schöner Stein",
+  "Pretty-Stone_Description_Translated": "Ein schöner Stein, der in der Sonne glitzert. Er hat wenig Wert.",
+
+  "Lunar-crystal-shard_Translated": "Lunar-Kristallsplitter",
+  "Lunar-crystal-shard_Description_Translated": "Ein seltener Kristallsplitter, der mit der Kraft des Mondes schwingt. Er strahlt ein sanftes Licht aus, das seine himmlische Natur offenbart.",
+
+  "Bioluminescent-mycena_Translated": "Biolumineszente Mycena",
+  "Bioluminescent-mycena_Description_Translated": "Ein kleiner, strahlender Pilz mit biolumineszenten Eigenschaften. Er strahlt ein sanftes Licht aus und verstärkt den Zauber seiner Umgebung.",
+
+  "Arcane-Charm_Translated": "Magischer Charme",
+  "Arcane-Charm_Description_Translated": "Transportiert dich zu einem ruhigen Ort auf Cape Island. Alte Magie in einem einzigen Gefäß eingefangen.",
+
+  "Rosy-Harmony-Tea_Translated": "Rosy Harmony Tee",
+  "Rosy-Harmony-Tea_Description_Translated": "Eine harmonische Mischung aus Rosa Rugosa Blütenblättern, frischen Äpfeln und Teeblättern, die ein duftendes und beruhigendes Teeerlebnis schafft. Süße blumige Noten ergänzen die fruchtige Essenz, mit einem Hauch von Honig für zusätzliche Süße. Erfrischend und wohltuend.",
+
+  "Uva-Ursi_Translated": "Uva-Ursi",
+  "Uva-Ursi_Description_Translated": "Eine kleine, saure Beere, die für ihren einzigartigen Geschmack bekannt ist. Geerntet von der Uva-Ursi-Pflanze, verleiht sie deinen Rezepten eine spritzige Note.",
+
+  "Cuachalalate-Bark_Translated": "Cuachalalate-Rinde",
+  "Cuachalalate-Bark_Description_Translated": "Eine seltene und aromatische Rinde, die für ihre medizinischen Eigenschaften bekannt ist. Sie wird vom Cuachalalate-Baum geerntet und verleiht deinen Kräuter-Kreationen einen unverwechselbaren Geschmack.",
+
+  "Corn-Silk_Translated": "Maisseide",
+  "Corn-Silk_Description_Translated": "Zarte Stränge von Maisseide, sorgfältig geerntet für verschiedene Verwendungen. Dieser Gegenstand kann beim Handwerken verwendet werden oder als wertvolle Zutat in Kräutermischungen.",
+
+  "Shavegrass_Translated": "Rasiergras Kräuter",
+  "Shavegrass_Description_Translated": "Ein duftendes Kraut, das deinen Teemischungen eine einzigartige Note verleiht. Sorgfältig geerntet, verbessert dieses Rasiergras-Kraut die revitalisierenden Eigenschaften deiner Mischungen.",
+
+  "ReVitaliTea_Translated": "ReVitaliTea",
+  "ReVitaliTea_Description_Translated": "Der grüne Elixier darin bietet eine revitalisierende Flucht. Nimm dir einen Moment, genieße das Wesen der Vitalität der Natur und spüre die Verjüngung.",
+
+  "Green-Tea-Mochi_Translated": "Grüner Tee Mochi",
+  "Green-Tea-Mochi_Description_Translated": "Ein traditionelles japanisches Dessert. Es ist außen weich und zäh. Sobald du hineinbeißt, schmeckst du die bittersüße Matcha-Füllung.",
+
+  "Rosa-Rugosa_Translated": "Rosa Rugosa",
+  "Rosa-Rugosa_Description_Translated": "Eine rosa Rose, die in Asien heimisch ist. Sie wächst jetzt an vielen Küsten, weil sie salzwasserresistent ist.",
+
+  "Secret-Cave-Key_Translated": "Geheimer Höhlenschlüssel",
+  "Secret-Cave-Key_Description_Translated": "Sein einziger Zweck ist es, eine Tür zu öffnen.",
+
+  "Totoro-Plush_Translated": "Totoro Plüsch",
+  "Totoro-Plush_Description_Translated": "Es ist sehr weich und niedlich.",
+
+  "Pomegranate-Mochi_Translated": "Granatapfel-Mochi",
+  "Pomegranate-Mochi_Description_Translated": "Ein traditionelles japanisches Dessert, das außen weich und zäh ist. Die Innenseite ist gefüllt mit dem ausgeprägten säuerlichen Geschmack von Granatapfel.",
+
+  "Sticky-Rice-Flour_Translated": "Klebreismehl",
+  "Sticky-Rice-Flour_Description_Translated": "Hergestellt aus Klebreis. Sein Aussehen ähnelt Weizenmehl, aber das Ergebnis ist zäher. Er wird in den Ländern im Osten angebaut und als Zutat verwendet.",
+
+  "Gummi-Sweet-Rice_Translated": "Gumi Süßer Reis",
+  "Gumi-Sweet-Rice_Description_Translated": "Hochwertiger Klebreis, perfekt für die Herstellung von Klebreismehl und traditionellen Gerichten.",
+
+
+  "Blue-Diamond_Translated": "Blauer Diamant",
+  "Blue-Diamond_Description_Translated": "Ein Diamant mit einer strahlenden Aura.",
+
+  "Heart-Diamond_Translated": "Herzdiamant",
+  "Heart-Diamond_Description_Translated": "Ein schöner rosa Diamant. Es wäre sehr romantisch, dies jemandem zu schenken...",
+
+  "Fire-Diamond_Translated": "Feuerdiamant",
+  "Fire-Diamond_Description_Translated": "Eine mysteriöse Farbe für einen Diamanten und er ist auch extrem selten.",
+
+  "Sketchbook_Translated": "Skizzenbuch",
+  "Sketchbook_Description_Translated": "Es ist gefüllt mit Seiten voller Zeichnungen. Einige davon sind ziemlich gut.",
+
+  "Cape-Warp-Totem_Translated": "Kap Warp Totem",
+  "Cape-Warp-Totem_Description_Translated": "Benutze dieses verzauberte Totem, um sofort zum Kap zu teleportieren.",
+
+  "Sea-Cape-Warp-Totem_Translated": "Kap-Teleportations-Totem",
+  "Sea-Cape-Warp-Totem_Description_Translated": "Benutze dieses verzauberte Totem, um sofort zur Mini-Insel des Kap zu teleportieren.",
+
+  "Beach-Strawberry_Translated": "Strand-Erdbeere",
+  "Beach-Strawberry_Description_Translated": "Eine süße und saftige Strand-Erdbeere. Die leuchtend roten Beeren und die üppig grünen Blätter machen sie zu einer köstlichen Küstenspezialität. Der Verzehr dieser Beeren sorgt für einen erfrischenden Energieschub.",
+
+  "Frozen-Beach-Strawberry_Translated": "Gefrorene Strand-Erdbeere",
+  "Frozen-Beach-Strawberry_Description_Translated": "Eine gefrorene Strand-Erdbeere. Die leuchtend roten Beeren und die üppigen grünen Blätter machen sie zu einer köstlichen Küstenspezialität. Der Verzehr dieser Beeren gibt einen erfrischenden Energieschub.",
+
+  "Hyper-Diamond_Translated": "Lumineszierendes Prisma",
+  "Hyper-Diamond_Description_Translated": "Ein riesiger Diamant, der in den Tiefen der Meereshöhle entdeckt wurde.",
+
+  "Analogous-Diamond_Translated": "Strahlendes Prisma",
+  "Analogous-Diamond_Description_Translated": "Ein riesiger Diamant, der in den Tiefen der Meereshöhle entdeckt wurde.",
+
+  "Prismatic-Diamond_Translated": "Himmlisches Prisma",
+  "Prismatic-Diamond_Description_Translated": "Ein riesiger Diamant, der in den Tiefen der Meereshöhle entdeckt wurde.",
+
+  "Legacy-Aged-Rum_Translated": "Erbstück Alter Rum",
+  "Legacy-Aged-Rum_Description_Translated": "verleiht einen herzlichen Effekt, der deinen Geist mit einem Gefühl von Abenteuer und Mut erfüllt.",
+
+  "Captains-Seafarer-Hat_Translated": "Kapitänen's Seefahrerhut",
+  "Captains-Seafarer-Hat_Description_Translated": "Dieses fein gearbeitete Kopfstück trägt die Essenz von Seefahrerabenteuern, mit seinem stabilen Rand, der vor rauen Winden schützt, und seinem gestickten Emblem, das den Reiz des offenen Meeres symbolisiert.",
+
+  "Golden-Obsidian-Blade_Translated": "Goldene Obsidian-Klinge",
+  "Golden-Obsidian-Blade_Description_Translated": "Ein gestohlenes Relikt mit einer königlichen Vergangenheit, dessen Griff mit feurigen Rubinen und ominösen orangefarbenen Edelsteinen verziert ist. Die solide Goldklinge birgt sowohl königliche Geschichte als auch Schatten der Geheimnisse, was sie zu einer furchterregenden und rätselhaften Waffe macht.",
+
+  "Shadow-Strike-Blade_Translated": "Schattenstichklinge",
+  "Shadow-Strike-Blade_Description_Translated": "Eine Klinge, die in Geheimnis und Dunkelheit gehüllt ist. Gefertigt aus Schatten, die in den Tiefen der Höhle von Cape Stardew gefunden wurden. Mit einem schnellen Schlag entfesselt sie ein schattenhaftes Geschoss, das die Geheimnisse verkörpert, die in den Schatten verborgen sind.",
+
+  "Gold-Pocket-Watch_Translated": "Goldene Taschenuhr",
+  "Gold-Pocket-Watch_Description_Translated": "Es sieht wertvoll aus und stammt aus einer ziemlich langen Zeit.",
+
+  "hummingbird_Translated": "Kolibri",
+
+//JA//
+//Objects///
+  "object.Gold-Pocket-Watch.name": "Goldene Taschenuhr",
+  "object.Gold-Pocket-Watch.description": "Es sieht wertvoll aus und stammt aus einer ziemlich langen Zeit.",
+
+
+  "object.Pretty-Stone.name": "Schöner Stein",
+  "object.Pretty-Stone.description": "Ein schöner Stein, der in der Sonne glitzert. Er hat wenig Wert.",
+
+
+  "object.Lunar-crystal-shard.name": "Lunar-Kristallsplitter",
+  "object.Lunar-crystal-shard.description": "Ein seltener Kristallsplitter, der mit der Kraft des Mondes schwingt. Er strahlt ein sanftes Licht aus, das seine himmlische Natur offenbart.",
+
+
+  "object.Bioluminescent-mycena.name": "Biolumineszente Mycena",
+  "object.Bioluminescent-mycena.description": "Ein kleiner, strahlender Pilz mit biolumineszenten Eigenschaften. Er strahlt ein sanftes Licht aus und verstärkt den Zauber seiner Umgebung.",
+
+
+  "object.Arcane-Charm.name": "Magischer Charme",
+  "object.Arcane-Charm-Tea": "Transportiert dich zu einem ruhigen Ort auf Cape Island. Alte Magie in einem einzigen Gefäß eingefangen.",
+
+  "object.Rosy-Harmony-Tea.name": "Rosy Harmony Tee",
+  "object.Rosy-Harmony-Tea": "Eine harmonische Mischung aus Rosa Rugosa Blütenblättern, frischen Äpfeln und Teeblättern, die ein duftendes und beruhigendes Teeerlebnis schafft. Süße blumige Noten ergänzen die fruchtige Essenz, mit einem Hauch von Honig für zusätzliche Süße. Erfrischend und wohltuend.",
+
+  "object.Uva-Ursi.name": "Bärentraube",
+  "object.Uva-Ursi.description": "Eine kleine, herbe Beere, die für ihren einzigartigen Geschmack bekannt ist. Geerntet von der Uva-Ursi-Pflanze, verleiht sie deinen Rezepten eine spritzige Note.",
+
+
+  "object.Cuachalalate-Bark.name": "Cuachalalate-Rinde",
+  "object.Cuachalalate-Bark.description": "Eine seltene und aromatische Rinde, die für ihre medizinischen Eigenschaften bekannt ist. Sie wird vom Cuachalalate-Baum geerntet und verleiht deinen Kräuter-Kreationen einen unverwechselbaren Geschmack.",
+
+  "object.Corn-Silk.name": "Maisseide",
+  "object.Corn-Silk.description": "Zarte Stränge von Maisseide, sorgfältig geerntet für verschiedene Verwendungen. Dieser Gegenstand kann beim Handwerken oder als wertvolle Zutat in Kräutermischungen verwendet werden.",
+
+
+  "object.Shavegrass.name": "Rasiergras Kräuter",
+  "object.Shavegrass.description": "Ein duftendes Kraut, das deinen Teemischungen eine einzigartige Note verleiht. Mit Sorgfalt geerntet, verbessert dieses Rasiergras-Kraut die revitalisierenden Eigenschaften deiner Mischungen.",
+
+
+  "object.ReVitaliTea.name": "ReVitaliTee",
+  "object.ReVitaliTea.description": "Der grüne Elixier darin bietet eine revitalisierende Flucht. Nimm dir einen Moment, genieße das Wesen der Vitalität der Natur und spüre die Verjüngung.",
+
+  "object.Green-Tea-Mochi.name": "Grüner Tee Mochi",
+  "object.Green-Tea-Mochi.description": "Ein traditionelles japanisches Dessert. Es ist außen weich und zäh. Sobald du hineinbeißt, schmeckst du die bittersüße Matcha-Füllung.",
+
+  "object.Rosa-Rugosa.name": "Rosa Rugosa",
+  "object.Rosa-Rugosa.description": "Eine rosa Rose, die in Asien heimisch ist. Sie wächst jetzt an vielen Küsten, weil sie salzwasserbeständig ist.",
+
+  "object.Secret-Cave-Key.name": "Geheimer Höhlenschlüssel",
+  "object.Secret-Cave-Key.description": "Sein einziger Zweck ist es, eine Tür zu öffnen.",
+
+  "object.Totoro-Plush.name": "Totoro-Plüsch",
+  "object.Totoro-Plush.description": "Es ist sehr weich und niedlich.",
+
+  "object.Pomegranate-Mochi.name": "Granatapfel-Mochi",
+  "object.Pomegranate-Mochi.description": "Ein traditionelles japanisches Dessert, das außen weich und zäh ist. Die Innenseite ist gefüllt mit dem ausgeprägten säuerlichen Geschmack von Granatapfel.",
+
+  "object.Sticky-Rice-Flour.name": "Klebreismehl",
+  "object.Sticky-Rice-Flour.description": "Hergestellt aus Klebreis. Sein Aussehen ähnelt Weizenmehl, aber das Ergebnis ist zäher. Er wird in den Ländern im Osten angebaut und als Zutat verwendet.",
+
+  "object.Blue-Diamond.name": "Blauer Diamant",
+  "object.Blue-Diamond.description": "Ein Diamant mit einer strahlenden Aura.",
+
+  "object.Heart-Diamond.name": "Herzdiamant",
+  "object.Heart-Diamond.description": "Ein schöner rosa Diamant. Es wäre sehr romantisch, dies jemandem zu schenken...",
+
+  "object.Fire-Diamond.name": "Feuerdiamant",
+  "object.Fire-Diamond.description": "Eine geheimnisvolle Farbe für einen Diamanten und er ist auch extrem selten.",
+
+  "object.Prismatic-Diamond.name": "Himmlischer Kristall",
+  "object.Prismatic-Diamond.description": "Ein extrem seltener Mineral.",
+
+
+  "object.Sketchbook.name": "Skizzenbuch",
+  "object.Sketchbook.description": "Es ist gefüllt mit Seiten voller Zeichnungen. Einige davon sind ziemlich gut.",
+
+  "object.capewarptotem-crafting.name": "Kap Warp Totem",
+  "object.capewarptotem-crafting.description": "Benutze dieses verzauberte Totem, um sofort zum Kap zu teleportieren.",
+
+  "object.beach-strawberry.name": "Strand-Erdbeere",
+  "object.beach-strawberry.description": "Eine süße und saftige Strand-Erdbeere. Die leuchtend roten Beeren und die üppigen grünen Blätter machen sie zu einer köstlichen Küstenspezialität. Der Verzehr dieser Beeren sorgt für einen erfrischenden Energieschub.",
+
+	///Bigcraftables//
+
+  "big-craftables.Hyper-Diamond.name": "Leuchtendes Prisma",
+  "big-craftables.Hyper-Diamond.description": "Ein riesiger Diamant, der in den Tiefen der Meereshöhle entdeckt wurde.",
+
+  "big-craftables.Analogous-Diamond.name": "Strahlendes Prisma",
+  "big-craftables.Analogous-Diamond.description": "Ein riesiger Diamant, der in den Tiefen der Meereshöhle entdeckt wurde.",
+
+  "big-craftables.Prismatic-Diamond.name": "Himmlisches Prisma",
+  "big-craftables.Prismatic-Diamond.description": "Ein riesiger Diamant, der in den Tiefen der Meereshöhle entdeckt wurde.",
+
+  "object.Legacy-Aged-Rum.name": "Legacy Aged Rum",
+  "object.Legacy-Aged-Rum.description": "verleiht einen herzerwärmenden Effekt, der deinen Geist mit einem Gefühl von Abenteuer und Mut erfüllt.",
+	///hats///
+  "hat.Captains-Seafarer-Hat.name": "Kapitäns-Seefahrerhut",
+  "hat.Captains-Seafarer-Hat.description": "Dieser fein gearbeitete Kopfschmuck trägt die Essenz von Seefahrerabenteuern, mit seinem stabilen Rand, der vor rauen Winden schützt, und seinem gestickten Emblem, das den Reiz des offenen Meeres symbolisiert.",
+	//weapons//
+  "weapon.Golden-Obsidian-Blade.name": "Goldene Obsidian-Klinge",
+  "weapon.Golden-Obsidian-Blade.description": "Ein gestohlenes Relikt mit einer königlichen Vergangenheit, dessen Griff mit feurigen Rubinen und ominösen orangefarbenen Edelsteinen geschmückt ist. Die solide Goldklinge trägt sowohl königliche Geschichte als auch Schatten der Geheimnisse, was sie zu einer formidable und rätselhaften Waffe macht.",
+
+  "Locations.Minecart1": "Kapwald",
+
+  "Locations.Minecart2": "Geheimnisse der Meereshöhle",
+
+  "Dialogue.Bundl.001": "Ahornsirup, so lecker! Zwei Gläser, wenn du bitte. Eines für mich und eines für... naja, nur für mich! Hehe.",
+
+
+  "oreunlock": "Hallo!^^Mit einem Hauch meiner ozeanischen Magie habe ich etwas ganz Besonderes gemacht. Kimberlit-Erz funkelt jetzt in den Minen von Stardew Valley!^^Und rate mal? Wenn du sie aufbrichst, könnten sie dich mit diesen schönen Diamanten aus Cape Stardew überraschen! Ist das nicht aufregend?^^Viel Spaß beim Minen, lieber Freund!^^-Jelli",
+
+  "guildBridge": "Lieber @,^^Marlon hat kürzlich unsere Gildenmitglieder entsandt, um die Meereshöhle unter dem Kap Stardew zu untersuchen. Zu unserer Freude berichteten sie von der wiederhergestellten Brücke—dank deiner bemerkenswerten Bemühungen.^^Als Anerkennung für deinen Mut und deine Hingabe haben wir eine besondere Belohnung für dich ausgewählt—einen Schatz mit magischen Eigenschaften, der dir bei zukünftigen Quests helfen wird. Bitte nimm ihn mit unserem aufrichtigsten Dank an.^^Herzliche Grüße,^^Die Abenteurergilde",
+
+  "cape-island-totem-recipe": "Kap Insel: Warp Totem Rezept",
+
+  "cape-totem-recipe": "Kap: Warp Totem Rezept",
+
+
+
+  "Sea-Mask_Description_Translated": "Eine Maske in ozeanischen Farben mit einem strahlend grünen Edelstein, von dem gesagt wird, dass sie die Geheimnisse des Meeres birgt. Geschmückt mit einem Seestern und Algenbändern, flüstert sie von alter Unterwasser-Magie.",
+
+  "Sea-Mask_Translated": "Meerjungfrauen-Schleier",
+
+  "Endless-Ember_Name": "Endlose Glut",
+  "Endless-Ember_Description": "Dieser Ring strahlt ein warmes Licht aus, ein schützendes Versprechen gegen die Flammen.",
+  "Ashen-Promise-Buff_Name": "Ascheversprechen",
+  "Ashen-Promise-Buff_Description": "Ein Gelübde der Sicherheit mitten im Feuer",
+
+
+  "Mystic-Arcana_Name": "Mystische Arkana",
+  "Mystic-Arcana_Description": "Ein mächtiger Ring, der aus Licht geschmiedet wurde, erhöht den Angriff und schützt den Träger vor gelegentlichem Schaden.",
+
+  "Arcane-Charm-Buff_Name": "Arkaner Zauber",
+  "Arcane-Charm-Buff_Description": "Verzaubert von Mystikern aus längst vergangener Zeit.",
+  "Silver-Petal-Buff_Name": "Blütenanmut",
+  "Silver-Petal-Buff_Description": "Ein Segen von anmutigen Blüten umgibt dich und verbessert dein Glück und deine Ausdauer.",
+  "Sky-Oak-Buff_Name": "Eichensegen",
+  "Sky-Oak-Buff_Description": "Der Segen einer alten Eiche stärkt dich und erhöht deine Geschwindigkeit und Verteidigung.",
+
+  "Silver-Petal-Ring_Name": "Silberne Blüte",
+  "Silver-Petal-Ring_Description": "Ein silberner Ring, gekrönt von einem strahlenden rosa Edelstein, verziert mit zarten Silberblüten, die die Anmut der Natur ausstrahlen.",
+  "Sky-Oak-Ring_Name": "Himmelseiche",
+  "Sky-Oak-Ring_Description": "Ein Ring aus dem Holz einer Himmelseiche, der dem Träger den Segen des Himmels verleiht.",
+  "event.wallCrack": "Ein Erdbeben?",
+
+  "event.wallCrack2": "Die Wand ist eingestürzt und hat einen versteckten Durchgang freigelegt!",
+
+
+  "ringevent.001": "Du durchsuchst die Kohle und findest etwas Glitzerndes. Es ist ein schöner Ring!",
+  "ringevent.002": "Du durchsuchst die Kohle und findest nichts.",
+
+  "Locations.MineCaveForest": "Waldmine Höhle",
+
+  "Sea-Crystal-Flask_Translated": "Kristallflasche",
+
+  "Sea-Crystal-Flask-Description_Translated": "Eine wunderschön gealterte Flasche, deren Oberfläche mit zarten Meereskristallen besetzt ist. Nach Jahrzehnten, die sie auf See verloren war, an Land gespült, flüstert sie vergessene Geschichten des Ozeans.",
+
+  "Flask-Hud-Message": "Eine uralte Aura strömt von der Flasche aus. Darin findest du einen Glücksring!",
+
+  "equip.endless_ember_ring": "Endloser Glutring ausgestattet!",
+  "unequip.endless_ember_ring": "Unequipped Endloser Glutring!",
+  "equip.mystic_arcana_ring": "Ausgerüstet mit dem Mystischen Arcana-Ring!",
+  "unequip.mystic_arcana_ring": "Nicht mehr ausgestattet mit dem Mystischen Arcana-Ring!",
+  "equip.silver_petal_ring": "Ausgerüsteter Silberblütenring!",
+  "unequip.silver_petal_ring": "Abgelegter Silberblütenring!",
+  "equip.sky_oak_ring": "Ausgerüsteter Himmelseichenring!",
+  "unequip.sky_oak_ring": "Ausgerüsteter Himmelseichenring!",
+
+
+  "Annetta_quest.reaction": "Oh! Eine meiner Lieblingsfrüchte, danke, dass du sie geliefert hast. Sie sehen schön und frisch aus.",
+
+  "Annetta_quest2.reaction": "Oh, zum Glück! Ich dachte, all meine Skizzen wären für immer verschwunden. Es sieht so aus, als wären alle Seiten noch in gutem Zustand. Danke dir!",
+
+  "Annetta_quest3.reaction": "WOO! Sie sehen aus wie ein Stern.$h #$b# Jetzt kommt der Geschmackstest. #$b# .... #$b# MMM. Oh Wow! Es ist leicht süß und ein bisschen sauer. Irgendwie wie ein Apfel!$h",
+
+//conversationtopic//
+  "Capelakewalk.convotopic": "Der Spaziergang zum See letzte Nacht war, als ob der Mond selbst beschlossen hätte, mit uns zu tanzen, so hell leuchtend, findest du nicht?",
+
+
+  "Annetta.Jelli.Encounter.yes": "Weißt du, seit du mir von diesem Meeresgeist erzählt hast, denke ich viel darüber nach. Es ist erstaunlich zu denken, dass es so viel gibt, was wir über den Ozean nicht wissen.",
+  "Annetta.Jelli.Encounter.no": "Ich habe über diesen Spritzer im Wasser nachgedacht. Es ist alles so geheimnisvoll. Was könnte das gewesen sein? Der Ozean birgt so viele Geheimnisse."
+
+
+
+
+}
+

@@ -1,0 +1,529 @@
+{
+  "Annetta.dislplayname.0": "Annetta",
+//annetta///event/extra//
+
+  "Annetta.quickquestion.001": "Möchtest du Annetta einen Hinweis auf Jelli geben?",
+  "Annetta.quickquestion.yes": "Ja",
+  "Annetta.quickquestion.no": "Nein",
+  "Annetta.quickquestion.002": "Du gibst Annetta einen Hinweis auf Jelli.",
+  "Annetta.quickquestion.003": "Ein Meeresgeist? Das ist unglaublich! Der Kap Sternentautal ist wirklich ein Ort voller Wunder. Ich fühle mich geehrt, zu wissen, dass so ein Geheimnis existiert.",
+  "Annetta.quickquestion.004": "Du entscheidest dich, Jelli geheim zu halten.",
+  "Annetta.quickquestion.005": "Ich muss mir das einbilden. Aber manchmal fühlt es sich an, als wäre dieser Ort lebendig mit uralter Magie. Ich frage mich, welche anderen Geheimnisse er birgt.",
+
+
+ //eventspringorderannetta//
+  "annetta.springorderevent": "Hey!#$b# Oh, entschuldige, ich war in dieses alte Buch über die mystischen Eigenschaften der Stardrop-Früchte vertieft. #$b# Wusstest du, dass einige glauben, es erfüllt Wünsche? Ziemlich faszinierend! Aber ich schweife ab. Ich habe über mein nächstes künstlerisches Projekt nachgedacht und dachte, vielleicht könntest du mir helfen. #$b# Ich bin auf der Suche nach etwas Besonderem, um meine nächste Kreation zu inspirieren... Sag mal Bauer, warum hilfst du einer Dame nicht? #$b# Ich verspreche, dich natürlich zu belohnen.",
+  "annetta.springorderquestion": "Hmmm... hast du irgendwelche seltenen Gegenstände in Gelb- oder Goldtönen gesehen?",
+  "Anet.SpringOrder.001": "Klar, ich werde nach so etwas Ausschau halten.",
+  "Anet.SpringOrder.002": "Es tut mir leid, ich kann dir dabei gerade nicht helfen.",
+  "SpringOrder.Deny": "Ich verstehe. Vielleicht beim nächsten Mal!",
+  "SpringOrder.Accept": "Super! Halte ein Auge auf mich, danke @.",
+
+
+
+//Festival//
+  "f.a.001": "Der beste Teil der Feiertage ist das Essen. #$b# Der Geist des Gebens ist auch für uns alle von Vorteil.",
+  "f.a.002": "Die gruseligen Festlichkeiten haben gerade erst begonnen. #$e# Die Skelettdarsteller sind so realistisch. #$b# Ich habe versucht, näher zu kommen, aber einer von ihnen hat mich angeknurrt.",
+  "f.a.003": "Hallo @, ich kann die Fische hier unter dem Eis schwimmen sehen.",
+  "f.a.004": "Hey @, jeder Stand sieht bisher großartig aus. Diese Feste machen wirklich Spaß.",
+  "f.a.005": "Die Quallen hier sind erstaunlich! Die Natur hört nie auf, mich zu überraschen.",
+  "f.a.006": "Ich kann den Beat der Musik von den Lautsprechern hier spüren.",
+  "f.a.007": "Ich liebe diese Festivals, besonders wenn Essen dabei ist!",
+  "f.a.008": "Ich finde die Eierjagd sehr spannend! Ich frage mich, wer am Ende gewinnen wird.",
+
+//GiftTastes///
+
+  "gift.Annetta.001": "Manchmal sind die besten Geschenke die, die uns am meisten überraschen, wie dieses. Du hast dich selbst übertroffen!",
+  "gift.Annetta.002": "Oh! Wie hast du gewusst, dass ich mir gerade eines davon gewünscht habe!",
+  "gift.Annetta.003": "Danke... das wird großartige Munition.",
+  "gift.Annetta.004": "Ich kann sehen, dass du dir dabei viel Gedanken gemacht hast...",
+  "gift.Annetta.005": "Danke, dass du an mich gedacht hast!",
+
+
+
+
+
+
+
+//AnnettaEvents//
+
+  "annetta.cs.e.001": "...Hey du @.",
+  "annetta.cs.e.002": "Es sieht so aus, als wärst du tief in Gedanken...",
+  "annetta.cs.e.003": "Was gibt's, @?",
+  "annetta.cs.e.004": "Ist alles in Ordnung?",
+  "annetta.cs.e.005": "Gehört das Boot dir?",
+  "annetta.cs.e.006": "Ich habe mich gefragt, ob ich das Boot ausprobieren könnte.",
+  "annetta.cs.e.007": "Als ich Marlon traf, erwähnte er, dass ich es benutzen könnte, um in die Stadt zu kommen, aber...",
+  "annetta.cs.e.008": "...ich habe ein bisschen Angst vor dem Ozean.$2",
+  "annetta.cs.e.009": "Ich weiß, ich werde dir helfen, in See zu stechen!$1",
+  "annetta.cs.e.010": "Alles klar, lass uns dieses Boot ins Wasser bringen.",
+  "annetta.cs.e.011": "Gute Arbeit, @!",
+
+///questevents//
+
+  "annetta.quest.e.001": "Oh hey! Genau die Person, die ich gesucht habe.$h #$b# Es ist Brombeerzeit und ich wollte ein paar von deiner Farm bestellen.",
+
+  "annetta.quest.e.004": "Kannst du mir versprechen, dass du mir in dieser Saison eine Ernte frischer Brombeeren lieferst, @?",
+
+  "Anet.Question.001": "Ja, Annetta! Ich werde dafür sorgen, dass du diese frischen Brombeeren bekommst.",
+  "Anet.Question.002": "Nein, tut mir leid Annetta. Ich kann mich gerade nicht dazu verpflichten.",
+
+  "anet.fq.001": "Ich werde sehnsüchtig auf diese köstlichen Brombeeren warten.",
+  "anet.fq.002": "Oh, ich verstehe. Wenn du deine Meinung änderst, lass es mich wissen. Frische Brombeeren wären ein Genuss gewesen!",
+
+//lostsketchbook//
+
+  "annetta.quest.s.001": "Hallo, da @",
+
+  "annetta.quest.s.002": "Ich hatte gehofft, dass du mir helfen könntest.",
+  "annetta.quest.s.003": "Es scheint, als hätte ich mein Skizzenbuch im Wald verloren.",
+
+  "annetta.quest.s.004": "Wenn du es zufällig findest, bring es einfach bei mir vorbei.",
+
+  "annetta.quest.s.005": "Danke.",
+
+///starfruit//
+  "annetta.quest.star.001": "Oh. Hallo @.",
+
+  "annetta.quest.star.002": "Schön, dich wiederzusehen.",
+  "annetta.quest.star.003": "Wenn es dir nichts ausmacht, würde ich gerne wissen, ob du irgendwelche Sternfrüchte auf deiner Farm hast?",
+
+  "annetta.quest.star.004": "Ich bin seit meiner Ankunft hier von dieser Frucht fasziniert.",
+
+  "annetta.quest.star.005": "Könntest du mir bitte 2 von deinem Bauernhof bringen?",
+
+  "annetta.cabinreaction.001": "Woher kommt diese schöne, gemütliche Hütte?",
+
+  "annetta.cabinreaction.002": "Es wurde so schön gebaut!$h #$b# $7Könnte @ etwas damit zu tun haben?",
+
+  "annetta.cabinreaction.003": "So inspirierend.",
+
+//EntryDialogue//
+
+  "Entry.Dialogue.CapeStardew_Wind": "Sieht ein bisschen bewölkt aus./ Es ist frisch draußen./ So starke Windböen heute.",
+
+  "Entry.Dialogue.CapeStardew_Rain": "Oh wow, es regnet hier wie verrückt./ Will ich wirklich nach draußen gehen?/ Der Regen macht manchmal Spaß.",
+
+  "Entry.Dialogue.CapeStardew_Snow": "Es ist ein Winterwunderland!/ Es ist so kalt./ Fühlt sich wie Zuhause an./ Es ist heute sehr kühl.",
+
+  "Entry.Dialogue.AnnettaHouse_Snow": "Endlich zu Hause/ Es ist so kalt./ Heiße Schokolade jetzt./ Ein warmes Haus, Yay!",
+
+  "Entry.Dialogue.Saloon_AnnettaSummer": "Guten Nachmittag, Gus./ Einen heißen Kaffee, bitte!",
+
+
+
+//AnnettaConditionalDialogue//
+  "Location.v1.Annetta10_Summer": "Ein Gemälde trägt immer ein kleines Stück der Seele des Künstlers.$6",
+
+  "Location.v2.Annetta10_Summer": "Mein Lieblingsort ist hier in meinem Arbeitszimmer. Ich mag es, weil ich hier mehr über die Welt durch diese Bücher von mir lernen kann. Ich öffne das Fenster, lasse die Brise herein, und dann höre ich nur die friedlichen Geräusche des Waldes.",
+
+
+//missingrecipes//
+
+  "annetta.missing.001": "Guten Morgen @",
+
+  "annetta.missing.002": "Hast du meine Mail richtig erhalten?",
+  "annetta.missing.003": "Ich habe versucht, dir ein Rezept zu schicken.",
+
+  "annetta.missing.004": "Naja, kein Problem. Hier ist das Rezept, das ich dir schicken wollte.",
+
+  "annetta.missing.005": "Es ist eines meiner Favoriten. Lass mich wissen, was du denkst. Bis bald, @.",
+
+
+///event1463510022-AnnettaVisit//
+
+
+  "annetta.cabin.event.001": "...Hallo, ist da jemand?",
+  "annetta.cabin.event.1question": "Wer könnte das um diese Uhrzeit sein?",
+  "annetta.cabin.event.answer1": "Geh und öffne die Tür.",
+  "annetta.cabin.event.answer2": "Bleib ruhig und ignoriere es.",
+  "annetta.cabin.event.greeting": "Hallo, ich habe das Licht in der Hütte gesehen. Ich habe mich gefragt, wer es wiederhergestellt hat. Eigentlich habe ich es bis jetzt nie bemerkt.",
+  "annetta.cabin.event.002": "Darf ich reinkommen?",
+  "annetta.cabin.event.002.answers.open_door": "Natürlich! Komm rein.",
+  "annetta.cabin.event.002.answers.sure_help": "Ja, das wäre großartig!",
+  "annetta.cabin.event.002.answers.no_help": "Nein, tut mir leid. Ich muss etwas erledigen.",
+  "annetta.cabin.event.003": "Danke, dass du mich hereingelassen hast! Deine Hütte sieht drinnen gemütlich und schön aus.",
+  "annetta.cabin.event.004": "Du hast einen fantastischen Job gemacht. Du hast ein echtes Talent für den Bau von Hütten.",
+  "annetta.cabin.event.ot": "Ich habe mich immer als jemanden betrachtet, der die Natur wirklich genießt.",
+  "annetta.cabin.event.005": "Hast du irgendwelche Pläne für den Abend?",
+  "annetta.cabin.event.005.answers.start_campfire": "Ja, ich plane, ein Lagerfeuer zu machen.",
+  "annetta.cabin.event.005.answers.unsure": "Ich bin mir noch nicht sicher.",
+  "annetta.cabin.event.006": "Ooh, ein Lagerfeuer klingt nach einer coolen Idee.",
+  "annetta.cabin.event.007": "Willst du, dass ich dir beim Lagerfeuer helfe?",
+  "annetta.cabin.event.007.answers.sureHelp": "Klar, das wäre großartig!",
+  "annetta.cabin.event.007.answers.noHelp": "Nein, ich habe das im Griff, danke!",
+  "annetta.cabin.event.008": "Hier ist etwas Feuerholz, das ich mitgebracht habe. Lass uns ein Lagerfeuer machen und die Nacht zusammen genießen.",
+  "annetta.cabin.event.009": "Die Sterne sind heute Nacht wunderschön, @. Lass uns das Feuer füttern und die Aussicht genießen.",
+  "annetta.cabin.event.010": "Magst du es, die Sterne zu beobachten?",
+  "annetta.cabin.event.010.answers.stargazing_yes": "Ja, ich liebe es.",
+  "annetta.cabin.event.010.answers.stargazing_no": "Nicht wirklich, das ist nicht mein Ding.",
+  "annetta.cabin.event.011": "Ich verstehe. Kein Druck, @. Wir können immer etwas anderes machen.",
+  "annetta.cabin.event.011ex": "Übrigens, hast du den schönen See in der Nähe gesehen? Er ist ziemlich friedlich, besonders am Abend mit dem Mondschein auf dem Wasser.",
+  "annetta.cabin.event.012": "Möchtest du dort einen Spaziergang machen?",
+  "annetta.cabin.event.012.answers.take_walk": "Klar, klingt schön.",
+  "annetta.cabin.event.012.answers.not_today": "Ich bin ziemlich müde.",
+  "annetta.cabin.event.013": "Das ist in Ordnung, @. Wenn du dir unsicher bist, können wir einfach hier drinnen in der Hütte entspannen.",
+  "annetta.cabin.event.014": "Willst du von meinen Abenteuern hören?",
+  "annetta.cabin.event.014.answers.adventures_yes": "Klar, ich würde gerne hören.",
+  "annetta.cabin.event.014.answers.adventures_no": "Vielleicht ein anderes Mal.",
+  "annetta.cabin.event.015": "Großartig! Lass mich dir von den Abenteuern erzählen, die ich beim Reisen hatte.",
+  "annetta.cabin.event.016": "Ich habe einige dichte Wälder zu Hause erkundet, die vulkanischen Regionen erkundet und sogar unter den Sternen gecampt.",
+  "annetta.cabin.event.017": "Oh, ich habe schon meine fairen Anteile an Waldabenteuern gehabt, weißt du? Einmal oder zweimal verloren gegangen, aber hey, ich habe immer meinen Weg zurückgefunden, kein Problem! Der Wald kann ganz lebhaft sein, mit all den verschiedenen Geräuschen, aber ich habe diese kleine Angewohnheit, vor mich hin zu summen oder zu singen, was mir gerade in den Sinn kommt. Es ist wie eine Art, mit den kleinen Kreaturen um mich herum in Verbindung zu treten, weißt du? Es lässt mich fühlen, als hätten diese niedlichen kleinen Freunde ein Auge auf mich, während ich die Natur erkunde!",
+  "annetta.cabin.event.018": "Oh, und ich kann die Zeit nicht vergessen, als ich einen versteckten Wasserfall entdeckte. Es war wie eine magische Oase.",
+  "annetta.cabin.event.019": "Reisen und die Schönheit der Natur zu erleben, war schon immer meine Leidenschaft.",
+  "annetta.cabin.event.020": "Aber ich genieße es auch, hier mit dir in dieser gemütlichen Hütte zu sein.",
+  "annetta.cabin.event.021": "Vielleicht können wir eines Tages unser eigenes Abenteuer zusammen planen.",
+  "annetta.cabin.event.022": "Egal, danke, dass du meinen Geschichten zugehört hast.",
+  "annetta.cabin.event.023": "Es war schön, Zeit mit dir zu verbringen, @. Pass auf dich auf und hab einen wunderbaren Abend!",
+  "annetta.cabin.event.024": "Gute Nacht!",
+  "annetta.cabin.event.026.answers.constellations": "Kennst du irgendwelche Sternbilder?",
+  "annetta.cabin.event.029": "Großer Bär",
+  "annetta.cabin.event.030": "Der Große Wagen.",
+  "annetta.cabin.event.031": "Orion.",
+  "annetta.cabin.event.cygnus1": "Cygnus",
+  "annetta.cabin.event.cass1": "Cassiopeia",
+  "annetta.cabin.event.others": "Andere",
+  "annetta.cabin.event.033": "Der Weg ist abends von Glühwürmchen umgeben, und es ist ziemlich magisch.",
+  "annetta.cabin.event.034": "Was für ein wunderbarer Abend es war.",
+  "annetta.cabin.event.035": "Danke, dass du mich eingeladen hast.",
+  "annetta.cabin.event.036": "Am See unter dem Mondlicht spazieren zu gehen, ist eine meiner Lieblingsbeschäftigungen.",
+  "annetta.cabin.event.037": "Die Sterne sind heute Nacht schön, @. Lass uns das Feuer füttern und die Aussicht genießen.",
+  "annetta.cabin.event.038": "Oh, und übrigens, mein Zuhause steht dir immer offen, weißt du? Nicht, dass ich es jedem erzähle, aber es gibt Zeiten, da kommt die Einsamkeit.",
+  "annetta.cabin.event.039": "Ich habe das Gefühl, dass du ein echter Abenteurer bist, oder? Pelikanstadt hat so viel Geschichte.",
+  "annetta.cabin.event.040": "Hey, wie wäre es damit? Wir sollten irgendwann unser eigenes Abenteuer planen. Ich wette, es wäre ein Riesenspaß!",
+  "annetta.cabin.event.041": "Es ist schön, Zeit mit dir zu verbringen, @.",
+  "annetta.cabin.event.042": "Hier ist etwas Feuerholz, das ich mitgebracht habe. Lass uns ein Lagerfeuer machen und die Nacht zusammen genießen.",
+  "annetta.cabin.event.043": "Die Sterne sind heute Nacht wunderschön, @. Lass uns das Feuer füttern und die Aussicht genießen.",
+  "annetta.cabin.event.044": "Was für ein wunderbarer Abend es war.",
+  "annetta.cabin.event.cf1": "Danke, dass du mich eingeladen hast.",
+  "annetta.cabin.event.cf2": "Oh, das ist in Ordnung. Es ist nicht für jeden. Aber ich finde es friedlich und faszinierend.",
+  "annetta.cabin.event.lake1": "Weißt du, es gibt etwas an der Ruhe der Natur, das mich einfach mit einem Gefühl des Friedens erfüllt.",
+  "annetta.cabin.event.lake2": "Ich bin wirklich froh, dass wir uns entschieden haben, heute Abend diesen Blick auf den See zu genießen, @.",
+  "annetta.cabin.event.rel": "Lass uns bald wieder entspannen.",
+  "annetta.cabin.event.obs1": "Das ist wunderbar! Ich finde es so friedlich und faszinierend.",
+  "annetta.cabin.event.const1": "Ja, ich kenne ein paar.",
+  "annetta.cabin.event.const2": "Nicht wirklich.",
+  "annetta.cabin.event.const3": "Ich mag es, neue Dinge zu lernen, magst du das nicht?",
+  "annetta.cabin.event.const4": "Sternenhimmel beobachten kann eine großartige Möglichkeit sein, sich zu entspannen.",
+  "annetta.cabin.event.cfbye1": "Ich bin wirklich froh, dass wir uns entschieden haben, heute Abend diese Aussicht auf das Feuer und die Sterne zu genießen, @.",
+  "annetta.cabin.event.fav": "Was ist dein Favorit?",
+
+
+///greenrain//
+  "Annetta.Main.Dialogue.GR": "Oh, hallo! Hast du den Regen draußen gesehen? Er ist... #$b# grün. Was ist da los?",
+  "Annetta.Schedule.GreenRain.001": "Hey, hast du den Regen draußen gesehen? Er ist... grün. Ziemlich seltsam, oder?",
+  "Annetta.Schedule.GreenRain.002": "Ich habe so etwas noch nie zuvor gesehen. Lass mich online nachsehen, ob es noch jemand anderen gibt, der das erlebt.",
+  "Annetta.Schedule.GreenRain.003": "Hmm, es scheint keine Informationen über dieses seltsame Wetterphänomen zu geben. Ich schätze, ich werde einfach drinnen bleiben und an meiner Musik arbeiten.",
+  "Annetta.Schedule.GreenRain.004": "Übrigens, hast du all die Moosbäume und Moossamen bemerkt, die überall in der Stadt auftauchen? Es ist, als würde die Natur auf diesen seltsamen Regen reagieren.",
+  "Annetta.Schedule.GreenRain.005": "Ich frage mich, ob der grüne Regen irgendwelche Nebenwirkungen hat... Vielleicht ist es besser, nicht hinauszugehen, bis er vorbei ist.",
+  "Annetta.Schedule.GreenRain.006": "Wenn du etwas brauchst, fühl dich frei, hier zu bleiben. Ich werde hier sein und ein paar Melodien machen.",
+  "Annetta.Schedule.GreenRain.007": "Bleib da draußen sicher, okay? Wer weiß, was dieser grüne Regen bringen könnte.",
+  "Annetta.Schedule.GreenRain.008": "Ah, es ist wieder der grüne Regen. Scheint, als würde es zu einer regelmäßigen Erscheinung werden. Nun, zumindest gibt es mir einen Grund, drinnen zu bleiben und produktiv mit meiner Musik zu sein.",
+  "Annetta.Schedule.GreenRain.009": "Wer weiß, welche Wunder dieses seltsame Wetter inspirieren könnte? Vielleicht wird eine neue Melodie aus der moosigen Atmosphäre draußen entstehen.",
+  "Annetta.Schedule.GreenRain.010": "Ich kann dieses unheimliche Gefühl über den grünen Regen nicht abschütteln. Es ist, als würde die Natur versuchen, uns etwas zu sagen, etwas, das wir nicht verstehen sollen.",
+
+///greenrainend//
+
+///scheduleDialogue///
+  "Annetta.Schedule.Dialogue.000": "Ich bin hierher gezogen, um neue Musik zu schreiben und zu produzieren.#$b#Ich bin immer zögerlich, an einen neuen Ort zu ziehen, weil ich mein Heimatland liebe. #$b#Ich glaube, es ist hilfreich, die Umgebung zu wechseln, um neue Ideen zu entwickeln. #$e#Das ist eine Theorie von mir.",
+  "Annetta.Schedule.Dialogue.001": "Am Meer zu leben erinnert mich an mein Heimatland. #$e#Ich habe dort ein Zuhause am Hafen.$9",
+  "Annetta.Schedule.Dialogue.002": "In meiner Heimat gibt es nicht viele Wälder. #$b# Ich genieße meine neue Umgebung trotz meiner offensichtlichen Heimweh.",
+  "Annetta.Schedule.Dialogue.003": "Es macht mir nichts aus, eine Pause von meiner Arbeit zu machen.",
+  "Annetta.Schedule.Dialogue.004": "$y 'Hallo @! Hast du Spaß auf der Farm?_Ja, ich liebe die Landwirtschaft!_$6Ich möchte auch meinen Garten in Schwung bringen_Nicht wirklich, ich habe mich ein paar Mal überarbeitet und bin ohnmächtig geworden. _$8Das ist nicht gut, @.Es ist schwer, alles zu managen, das weiß ich. Sei kritisch mit deinem Plan und bleib auf Kurs.'",
+  "Annetta.Schedule.Dialogue.005": "Entschuldige, ich werde heute ein wenig beschäftigt sein. Ich hoffe, das macht dir nichts aus.",
+  "Annetta.Schedule.Dialogue.006": "Wirst du heute mit mir spazieren gehen?",
+  "Annetta.Schedule.Dialogue.007": "Es macht immer Spaß, mit allen abzuhängen. #$e# Ich muss vielleicht bald nach Hause gehen.",
+  "Annetta.Schedule.Dialogue.008": "Hey, tut mir leid, ich bin so in dieses Buch vertieft.$1",
+  "Annetta.Schedule.Dialogue.009": "$y 'Was ist dein Lieblingsteil des Frühlings?_Es ist eine gute Zeit, um neu zu organisieren und eine neue gesunde Gewohnheit zu beginnen._Ich mag es, dass du die Natur schätzt._All die Vögel und Tiere zu sehen, die auftauchen. _oh @ Ich stimme zu, die Tierwelt ist so erstaunlich zu sehen.'",
+  "Annetta.Schedule.Dialogue.010": "Ich arbeite an etwas Kleinem.$9",
+  "Annetta.Schedule.Dialogue.011": "Ich habe mir eine Pause nach all der Arbeit verdient.",
+  "Annetta.Schedule.Dialogue.012": "$y 'Es wird spät. Willst du nicht nach Hause gehen?_Ich wollte nur mehr Zeit mit dir verbringen._Oh! Ich genieße deine Gesellschaft. Es macht mir nichts aus, wenn du noch ein bisschen bleibst, aber ich gehe bald ins Bett. Du kannst die Nacht in meinem Gästezimmer oben verbringen, wenn du möchtest._Ja! Ich wollte gerade gehen. Mach dir keine Sorgen._$1 Okay, ich möchte nicht, dass dir auf dem Weg nach Hause etwas passiert. Es wird dunkel im Wald. Sei dann vorsichtig.'",
+  "Annetta.Schedule.Dialogue.013": "Das Beste, was du tun kannst, ist, nach draußen zu kommen und die Natur um uns herum zu genießen.",
+  "Annetta.Schedule.Dialogue.014": "Hallo, @. #$b# Ich hatte heute Morgen viel Energie, also habe ich beschlossen, die Stadt zu besuchen.",
+  "Annetta.Schedule.Dialogue.015": "Oh hey. Ich kaufe gerade Allergiemedikamente.",
+  "Annetta.Schedule.Dialogue.016": "%Annetta ist beschäftigt, mit Marnie zu reden.",
+  "Annetta.Schedule.Dialogue.017": "Ich habe ein paar Snacks von Pierres mitgenommen. #$e# Ich kann es kaum erwarten zu essen.",
+  "Annetta.Schedule.Dialogue.018": "Vergiss nicht, dich auszuruhen @.",
+  "Annetta.Schedule.Dialogue.019": "Ich habe die Regentropfen bewundert.$9",
+  "Annetta.Schedule.Dialogue.020": "Ich liebe es, viele verschiedene Arten von Büchern zu lesen. Sie faszinieren mich.",
+  "Annetta.Schedule.Dialogue.021": "Ich bin ein bisschen schüchtern, aber ich wollte mich bemühen, meine neuen Nachbarn kennenzulernen.$8",
+  "Annetta.Schedule.Dialogue.022": "Hey, was geht ab? Ich genieße gerade ein bisschen die Meeresluft. #$b# Ich gehe heute Abend in die Kneipe.",
+  "Annetta.Schedule.Dialogue.023": "Die Musik bringt mich zum Tanzen! #$e# Zu Hause haben wir immer freitags gefeiert.",
+  "Annetta.Schedule.Dialogue.024": "Hi @. #$e# Schön, dich heute Abend hier zu sehen.",
+  "Annetta.Schedule.Dialogue.025": "Nun, ich habe nichts Extra gemacht. Aber vielleicht an einem dieser Tage werde ich es tun.",
+  "Annetta.Schedule.Dialogue.026": "Hmm... Ich bin mir nicht ganz sicher, welche Farbe ich für den Hintergrund verwenden soll.",
+  "Annetta.Schedule.Dialogue.027": "Ich benutze meinen Laptop gerne.$h",
+  "Annetta.Schedule.Dialogue.028": "$6Hä? #$b# Entschuldigung @, ich habe nicht aufgepasst.$2",
+  "Annetta.Schedule.Dialogue.029": "Hey. Schau mal, wer da ist. Leah und ich hatten gerade ein Gespräch über unsere Lieblingskünstler.$1",
+  "Annetta.Schedule.Dialogue.030": "$9Hallo @. #$e# Wooo, ich bin heute tatsächlich gut gelaunt. #$b# Es ist ein schöner Frühlingstag.",
+  "Annetta.Schedule.Dialogue.031": "Ich hatte in letzter Zeit so viel Arbeit. Es ist schön, mal kurz nach draußen zu gehen.$9",
+  "Annetta.Schedule.Dialogue.032": "Ich habe die kühle Luft des Winters vermisst.",
+  "Annetta.Schedule.Dialogue.033": "Ich hoffe, du hast hart auf deinem Bauernhof gearbeitet.$9",
+  "Annetta.Schedule.Dialogue.034": "Ich bewundere deine Arbeitsmoral @. #$b# Ich kann sehen, dass du dir Mühe mit deinem Bauernhof gibst.$9",
+  "Annetta.Schedule.Dialogue.035": "Hast du den Mann da oben in den Bergen gesehen? Ich habe mir ständig Sorgen gemacht, ob es ihm bei diesen eisigen Temperaturen gut geht. #$b#Ich möchte ihm eine schöne warme Decke besorgen.$9",
+  "Annetta.Schedule.Dialogue.036": "Manchmal musst du einfach anhalten und die Natur genießen, die uns umgibt.",
+  "Annetta.Schedule.Dialogue.037": "Die Winterzeit erinnert mich an mein Heimatland.",
+  "Annetta.Schedule.Dialogue.038": "Es macht mir nichts aus, ab und zu mal rauszukommen.",
+  "Annetta.Schedule.Dialogue.039": "Ich tanze gerne, weißt du. Lass uns die Musik ein wenig ändern?",
+  "Annetta.Schedule.Dialogue.040": "ZZzzz...Hä? Entschuldigung, ich schlafe gleich ein.$2",
+  "Annetta.Schedule.Dialogue.041": "Ich liebe es, die Boote der Fischer im Hafen kommen und gehen zu sehen.",
+  "Annetta.Schedule.Dialogue.042": "Was? Entschuldigung, ich habe nicht aufgepasst.",
+  "Annetta.Schedule.Dialogue.043": "Guten Morgen.",
+  "Annetta.Schedule.Dialogue.044": "Alles klar?",
+  "Annetta.Schedule.Dialogue.045": "Ich habe tatsächlich einen beschäftigten Tag vor mir.",
+  "Annetta.Schedule.Dialogue.046": "Ich habe etwas Kaffee mit meiner French Press gemacht, hier hast du eine Tasse. [395]",
+  "Annetta.Schedule.Dialogue.047": "Ich werde in meinem Studio arbeiten.",
+  "Annetta.Schedule.Dialogue.048": "Der Ozean ist so weitläufig, dass es nicht überrascht, dass er saisonale Veränderungen hat.$8",
+  "Annetta.Schedule.Dialogue.049": "Was für ein großartiges Comedy-Duo! Ich kann nicht genug bekommen.$1",
+  "Annetta.Schedule.Dialogue.050": "Ich warte nur darauf, dass der Saatgutladen öffnet.$8",
+  "Annetta.Schedule.Dialogue.051": "Ich brauchte ein paar Dinge, um mein Lieblingsdessert zu machen.",
+  "Annetta.Schedule.Dialogue.052": "%Annetta achtet nicht darauf.",
+  "Annetta.Schedule.Dialogue.053": "Nichts ist besser, als neben einem warmen Feuer zu sitzen. Während dieser kalten Winterabende.$8",
+  "Annetta.Schedule.Dialogue.054": "$y 'Hi @! Was gibt's?$1_Wie geht's dir?_Mir geht's großartig! Danke, dass du fragst, das ist nett._Was machst du gerade?_$9Nun, ich bin gerade dabei, mit dem Üben zu beginnen, also könnte ich eine Weile beschäftigt sein._Oh, egal._Ok, ich bin hier, falls du etwas brauchst.'",
+  "Annetta.Schedule.Dialogue.055": "$y 'Hallo @ Ich schreibe gerade einige Ideen auf.$8_Worüber schreibst du?_Nun, es ist ein Tagebuch, das ich seit ein paar Jahren führe. Indem ich meine Erfahrungen aufschreibe, lerne ich etwas über mich selbst._Was hast du heute vor?_ $9Ich plane, drinnen zu bleiben und in meinem Musikstudio zu arbeiten._Oh, egal._Ok, ich bin hier, falls du etwas brauchst.'",
+  "Annetta.Schedule.Dialogue.056": "Heute scheint ein guter Tag zu sein, um am Strand zu sitzen.$1",
+  "Annetta.Schedule.Dialogue.057": "Ich mache mich bereit, um loszugehen.",
+  "Annetta.Schedule.Dialogue.058": "Hey, ich entspanne mich gerade ein bisschen.$1",
+  "Annetta.Schedule.Dialogue.059": "Ein bisschen Ruhe und Sonne und dann zurück zur Arbeit.$1",
+  "Annetta.Schedule.Dialogue.060": "Ich werde nie müde von meinem Lieblingsdessert.",
+  "Annetta.Schedule.Dialogue.061": "Es ist hier drin ein bisschen stickig. Ich werde heute rausgehen.$2",
+  "Annetta.Schedule.Dialogue.062": "Ich komme gerne hierher und genieße einfach die Aussicht.$9 #$e# Du kannst von hier aus Pelikanstadt sehen.$1",
+  "Annetta.Schedule.Dialogue.063": "Ich habe ein seltsames Wesen in jener Höhle dort drüben gespürt.$2",
+  "Annetta.Schedule.Dialogue.064": "Es ist so heiß heute! Mein einziger Gedanke gerade ist, drinnen mit meinem Lieblings-Eis-Kokosnuss-Getränk abzukühlen.$9",
+  "Annetta.Schedule.Dialogue.065": "Bleibst du heute Abend zum Nachtisch?$1",
+  "Annetta.Schedule.Dialogue.066": "Ich habe extra für dich heute Abend gemacht, hier bitte.[{{spacechase0.JsonAssets/ObjectId: Green Tea Mochi}}]$4",
+  "Annetta.Schedule.Dialogue.067": "Ich lese gerne ein bisschen vor dem Schlafengehen.$4",
+  "Annetta.Schedule.Dialogue.068": "Ich habe normalerweise eine Tasse Kaffee am Tag.$9",
+  "Annetta.Schedule.Dialogue.069": "Kochen ist schwierig. Stimmst du nicht zu?$1",
+  "Annetta.Schedule.Dialogue.070": "Ich hatte vor, an meinem neuen Projekt zu arbeiten. Es macht mir viel Spaß, daran zu arbeiten.$1",
+  "Annetta.Schedule.Dialogue.071": "Es ist hier im Sommer wunderschön.",
+  "Annetta.Schedule.Dialogue.072": "Ich wollte heute einfach nur in der Nähe von zu Hause bleiben.",
+  "Annetta.Schedule.Dialogue.073": "Ich scheine mich in diesen Geschichtenbüchern zu verlieren.$9",
+  "Annetta.Schedule.Dialogue.074": "Ich bleibe gerne informiert, also schaue ich gerade nur das Wetter nach..",
+  "Annetta.Schedule.Dialogue.075": "Ich wollte heute ein bisschen dieses Spiel spielen. #$b# Oh, es ist ein Retro-Farming-RPG.$4",
+  "Annetta.Schedule.Dialogue.076": "Es ist hier irgendwie friedlich. Findest du nicht?",
+  "Annetta.Schedule.Dialogue.077": "Ich wollte mir heute hier ein Mittagessen holen.$1",
+  "Annetta.Schedule.Dialogue.078": "Was auch immer die Schenke kocht, es riecht von hier draußen echt gut. Sind das Pfannkuchen? #$b# Ich bin wegen dem Kaffee und einem Mittagessen gekommen!$6",
+  "Annetta.Schedule.Dialogue.079": "Ich hätte gerne den Salat und einen Kaffee, bitte.",
+  "Annetta.Schedule.Dialogue.080": "hmmm...Es sieht ein bisschen fehl am Platz aus, oder?$6",
+  "Annetta.Schedule.Dialogue.081": "Froh, wieder zu Hause zu sein.",
+  "Annetta.Schedule.Dialogue.082": "Ich liebe ein gutes Buch und starken Kaffee.",
+  "Annetta.Schedule.Dialogue.083": "Manchmal ist es am besten, an den heißesten Tagen drinnen zu bleiben.",
+  "Annetta.Schedule.Dialogue.084": "Es ist ein fauler Sonntag.",
+  "Annetta.Schedule.Dialogue.085": "Mein Musikgeschmack ist wie ein Mischpaket aus harten Bonbons.",
+  "Annetta.Schedule.Dialogue.086": "Die Pflege meiner eigenen Pflanzen lehrt mich viel über Verantwortung.",
+  "Annetta.Schedule.Dialogue.087": "Schön dich zu sehen @. #$b# Es ist so ein schöner Sonntag, ich musste rauskommen und ihn genießen.$1",
+  "Annetta.Schedule.Dialogue.088": "Dieser Spaziergang hat mir geholfen, mich mit Kreativität aufzuladen.",
+  "Annetta.Schedule.Dialogue.089": "Ich muss mich manchmal daran erinnern, eine Pause zu machen.$2",
+  "Annetta.Schedule.Dialogue.090": "Danach ist es Zeit fürs Bett, denke ich.",
+  "Annetta.Schedule.Dialogue.091": "Hier gibt es so viele interessante Bücher.$4",
+  "Annetta.Schedule.Dialogue.092": "Ich suche nach einem neuen Buch.",
+  "Annetta.Schedule.Dialogue.093": "Ich frage mich, wie Kürbisbier schmeckt.$1",
+  "Annetta.Schedule.Dialogue.094": "Die natürliche Atmosphäre ist einfach hervorragend.",
+  "Annetta.Schedule.Dialogue.095": "Der Herbst erfüllt meinen Kopf oft mit vielen Erinnerungen.$9",
+  "Annetta.Schedule.Dialogue.096": "La la la la La la la la #$b# Ich liebe es zu singen, besonders in der Natur.$1",
+  "Annetta.Schedule.Dialogue.097": "Weißt du, woran ich denke? $5#$b# Heiße Schokolade!$4",
+  "Annetta.Schedule.Dialogue.098": "...Ich fühle mich jetzt ein bisschen müde.$8",
+  "Annetta.Schedule.Dialogue.099": "Ich glaube nicht, dass ich jemals müde von dieser Aussicht werden werde.",
+  "Annetta.Schedule.Dialogue.100": "Der Ozean hat auch Jahreszeiten, weißt du. In den kalten Wintermonaten kann er intensiv werden.$9",
+  "Annetta.Schedule.Dialogue.101": "Die Jahreszeiten ändern sich und bringen damit ein neues und unvorhersehbares Leben.$9",
+
+
+  ///Dialogue//
+
+  "Annetta.Main.Dialogue.001": "Hallo!$9 #$b# Bist du auch neu im Tal? $4#$b# Wie heißt du? #$b# Ich sehe, dein Name ist @. Schön dich kennenzulernen. #$b# Mein Name ist Annetta. Ich bin auch neu hier. #$b# Ich bin von einem fernen Land hierher gezogen, wo wir Vulkane, Lavafelder und atemberaubende schwarze Sandstrände haben. Das Wetter dort ist ziemlich trüb, mit gelegentlichen Schneestürmen. #$e# Ich freue mich darauf, dir zu begegnen!$1",
+  "Annetta.Main.Dialogue.002": "Es ist immer eine Freude, dich zu sehen. Genieße deine Zeit!",
+  "Annetta.Main.Dialogue.003": "Der Ferienort ist immer hier, um dich von der Realität zu entführen.",
+  "Annetta.Main.Dialogue.004": "Der rhythmische Klang des Ozeans ist so beruhigend, findest du nicht?",
+  "Annetta.Main.Dialogue.005": "Dieser Strand ist ein Paradies.$4",
+  "Annetta.Main.Dialogue.006": "Wusstest du, dass sie hier eine köstliche Piña Colada servieren? Eine wirklich elegante Wahl.$4#$b#Prost auf gute Gesellschaft und unbeschwerte Momente!",
+  "Annetta.Main.Dialogue.007": "Ähm, hier im Resort zu sein, ist, äh, ein bisschen anders für mich, aber es ist schön, freundliche Gesichter zu sehen. Ich genieße die Atmosphäre jedoch. Ist nicht die Zufälligkeit des Lebens erfrischend?$1",
+  "Annetta.Main.Dialogue.008": "Guten Abend, Gus./Ein Ginger Ale, bitte!/ Lass uns sehen, welche Geschichten heute erzählt werden./Zurück zum Herzen von allem/ Lass uns sehen, welcher Akt sich heute entfaltet./Welche Melodien werden heute die Luft erfüllen,",
+  "Annetta.Main.Dialogue.009": "Ich brauchte frische Luft./ Was für ein schöner Tag!/ Es ist, als würde die Natur selbst uns einladen, an ihrer Freude teilzuhaben.",
+  "Annetta.Main.Dialogue.010": "Ah, jetzt entspannen und ein bisschen malen/ Hallo!/Na, schau mal, wer hier ist!/ Was führt dich in meine kleine Ecke des Schlosses?",
+  "Annetta.Main.Dialogue.011": "Es fühlt sich gut an, zu Hause zu sein./Zuhause, süßes Zuhause. Die Sonne geht unter und wirft ein warmes Licht./Tage wie diese lassen dich die einfachen Freuden schätzen./Vielleicht probiere ich heute Abend dieses neue Rezept aus./Jetzt ist es Zeit, mich zu entspannen und eine Tasse Tee zu machen./Zurück von meinem kleinen Abenteuer!/Es gibt etwas Magisches über die Brise heute./Es ist, als ob der Wind selbst Geheimnisse geflüstert hat. Ah, die Wunder der Natur!",
+  "Annetta.Main.Dialogue.012": "Ich mag es, hier Spaziergänge zu machen, aber manchmal hallt dieser Wald mit seltsamen Geräuschen wider. $8#$b# %Du hörst das Knacken von Zweigen in der Ferne. #$b# %Annetta scheint nervös zu sein. #$b# Entschuldige, ich denke, ich werde jetzt gehen.",
+  "Annetta.Main.Dialogue.013": "Oh hey, ich habe nicht erwartet, dich hier zu finden. $8 #$b# %Annetta wirft einen Blick auf die nahegelegenen Bäume, wo horizontale Rillen die Rinde jedes Baumes zieren.#$b# Weißt du, in meiner Einsamkeit bieten mir diese Bäume sowohl Muse als auch einen Sparringspartner. #$b# Vielleicht könntest du eines Tages mit mir kommen?",
+  "Annetta.Main.Dialogue.014": "Den Sonnenuntergang von hier aus zu beobachten, ist etwas ganz Besonderes.$1",
+  "Annetta.Main.Dialogue.015": "Der Klang der Meereswellen ist sehr beruhigend.$9",
+  "Annetta.Main.Dialogue.016": "Manchmal findest du hier schöne Muscheln.$4",
+  "Annetta.Main.Dialogue.017": "%Zzzzz....#$b# $7Hä? @! Weck mich nicht so auf. #$b# Komm von meinem Bett runter!$5",
+  "Annetta.Main.Dialogue.018": "$9Hey? #$b# $4 Wenn du mit mir hier hochkommen willst, ist das in Ordnung. #$b# Ich komme normalerweise nur hierher, um meine Malfähigkeiten zu üben.",
+  "Annetta.Main.Dialogue.019": "$4Es ist Zeit, an diesem Gemälde zu arbeiten. #$b# $8 @ Versuchst du, hier zu sitzen und mir beim Malen zuzusehen? #$b# Nun, es macht mir nichts aus, mach es dir bequem.$9",
+  "Annetta.Main.Dialogue.020": "$4Weißt du, warum ich es liebe zu malen? #$b# $5Es gibt mir die Freiheit, die ich mir wünsche, um zu tun, was ich will. #$b# Meiner Meinung nach kann Kunst alles sein. Es liegt am Betrachter, es so zu interpretieren, wie er möchte.$9",
+  "Annetta.Main.Dialogue.021": "Danke @, dass du mich in letzter Zeit so willkommen geheißen hast. $1 #$b# Es ist schön, jemanden zu haben, der versteht.#$e# Es ist nicht immer einfach, manchmal der Außenseiter zu sein.$4",
+  "Annetta.Main.Dialogue.022": "Ich habe jetzt erkannt, dass der einzige Weg, ein erfolgreiches Kunstwerk zu schaffen, darin besteht, Spaß zu haben und mir keine Sorgen über die Missverständnisse der Leute zu machen.$9",
+  "Annetta.Main.Dialogue.023": "%Annetta benutzt das Waschbecken...",
+  "Annetta.Main.Dialogue.024": "%Sie sucht etwas im Kühlschrank...",
+  "Annetta.Main.Dialogue.025": "%Annetta bereitet etwas vor...",
+  "Annetta.Main.Dialogue.026": "%Annetta ist beschäftigt...",
+  "Annetta.Main.Dialogue.027": "%Sie sieht ein bisschen beschäftigt aus...",
+  "Annetta.Main.Dialogue.028": "$q 890/891/892 fallback_key#Was hast du heute vor?#$r 890 0 first_key#Ich muss mit meiner Farm anfangen, haha!#$r 891 0 second_key#Ich möchte alle Leute in der Stadt kennenlernen. #$r 892 0 third_key#Ich weiß es nicht!",
+  "Annetta.Main.Dialogue.029": "Oh ja! Ich auch, ich muss mich einleben.$1",
+  "Annetta.Main.Dialogue.030": "Okay. Es war schön, dich kennenzulernen! Vielleicht sehe ich dich im Saloon.$1",
+  "Annetta.Main.Dialogue.031": "Haha. Ist schon okay, ich bin manchmal auch so, so viel zu tun an einem Tag!$4",
+  "Annetta.Main.Dialogue.032": "$p 890 #Das Wetter ist heute schön.$9|Hallo! Schön, dich zu sehen @.$9 |Ich singe gerne, während ich durch den Wald gehe. Das mache ich schon, seit ich ein kleines Mädchen war.",
+  "Annetta.Main.Dialogue.033": "$y 'Weißt du, ich liebe Brombeeren wirklich. Kannst du mir irgendwann einige meiner Lieblingsfrüchte von deinem Bauernhof bringen? _Klar!_Wirklich? Vielen Dank!$1_Entschuldigung, ich habe im Moment keine._Oh, das ist in Ordnung, mach dir keine Sorgen darum. '",
+  "Annetta.Main.Dialogue.034": "Hey! Ist das Eierfest nicht morgen? Ich bin mir eigentlich nicht sicher, ob ich hingehen werde..$1",
+  "Annetta.Main.Dialogue.035": "Hi @. $4 #$b# [241] Hier, bitte. Ich weiß, dass du beschäftigt bist und hart arbeitest, also habe ich dir etwas zu essen gemacht.$4",
+  "Annetta.Main.Dialogue.036": "$y 'Die Saison ist fast vorbei. Konntest du in diesem Frühling eine gute Ernte einfahren? _Ja, tatsächlich habe ich eine Menge Geld gemacht. Hehe_ Wirklich? Woah, das ist großartig!$1_Es war okay, ich hatte ein paar Probleme mit den Unkräutern und lästigen Krähen._Nun, ich denke, du weißt, dass du wahrscheinlich in eine Vogelscheuche investieren solltest. Hast du versucht, einen Zaun um deine Pflanzen zu bauen?$9'",
+  "Annetta.Main.Dialogue.037": "Hallo.$1  #$b# $q 711/713 Frühlingfrage_nach #Wie geht's dir?#$r 711 2 Frühlingfrage_jaw#Mir geht's eigentlich großartig.#$r 789 0 Frühlingfrage_nein#Ich fange gerade als Bauer an. Es ist also eine kleine Herausforderung, anzufangen.",
+  "Annetta.Main.Dialogue.038": "Ich freue mich, das zu hören.!$1",
+  "Annetta.Main.Dialogue.039": "Oh. Ähm. Entschuldigung. Weißt du was, ich habe etwas für dich! Hier, nimm sie.[495]$2",
+  "Annetta.Main.Dialogue.040": "$p 788 #Ich habe gestern eine Menge Arbeit geleistet. Es ist Zeit, dass ich einen kleinen Spaziergang mache. @. $9|Hallo @! Ich hoffe, es geht dir gut.$1",
+  "Annetta.Main.Dialogue.041": "Hallo, @.#$e# Ich liebe es, durch den Wald zu spazieren. Es macht Spaß.$4",
+  "Annetta.Main.Dialogue.042": "Hi @.$4 #$e# Es ist eine tägliche Gewohnheit von mir, anzuhalten und die blühenden Blumen zu bewundern.$4",
+  "Annetta.Main.Dialogue.043": "Wenn ich gestresst von der Arbeit bin, gehe ich gerne nach draußen und genieße die Meeresbrise.$8",
+  "Annetta.Main.Dialogue.044": "Ich frage mich, ob Piraten jemals durch dieses Gebiet gesegelt sind. Es scheint der ideale Ort für ein Schiff zu sein, um zu landen.$1",
+  "Annetta.Main.Dialogue.045": "Hi @. #$e# Ich plane, heute drinnen zu bleiben.$8",
+  "Annetta.Main.Dialogue.046": "Hallo @. #$e# Es ist Frühling und ich bin eine dankbare Grapefruit.$4",
+  "Annetta.Main.Dialogue.047": "Oh! $1 #$b# du hast mich erschreckt. #$e# Ich arbeite gerade an neuer Musik.$4",
+  "Annetta.Main.Dialogue.048": "Oh, hallo @! Der Frühling liegt in der Luft, und ich kann nicht anders, als mich lebendig und voller Inspiration zu fühlen.$1",
+  "Annetta.Main.Dialogue.049": "Hältst du jemals an, um die kleinen Dinge im Leben zu schätzen, wie das sanfte Rascheln der Blätter und das Zwitschern der Vögel?$6",
+  "Annetta.Main.Dialogue.050": "Die lebhaften Farben der Frühlingsblumen sind wie eine schöne Symphonie für die Augen, findest du nicht?$9",
+  "Annetta.Main.Dialogue.051": "Frühlingregen kann lästig sein, aber sie sind auch die Art der Natur, alles üppig und grün zu halten.$2",
+  "Annetta.Main.Dialogue.052": "Es gibt etwas Magisches daran, Schmetterlinge zwischen den Blumen fliegen zu sehen. Es ist wie ein Tanz der Farben.$8",
+  "Annetta.Main.Dialogue.053": "Ich verliere mich in Gedanken, während ich die Kirschblüten beobachte, die wie Schneeflocken von den Bäumen fallen.$6",
+  "Annetta.Main.Dialogue.054": "Ah-choo! Entschuldige meine Nieser. Der Frühling mag schön sein, aber meine Allergien sehen das anders.$2",
+  "Annetta.Main.Dialogue.055": "Die Frühlingsbrise trägt das Flüstern neuer Abenteuer, und ich kann nicht anders, als mich zu fragen, was die Saison für mich bereithält.$1",
+  "Annetta.Main.Dialogue.056": "Ich liege gerne auf dem weichen Gras, schaue in den klaren blauen Himmel und lasse meine Fantasie mich in ferne Länder tragen.$9",
+  "Annetta.Main.Dialogue.057": "Es ist schon Montag.$9 #$b# Ich muss etwas Arbeit erledigen.$8",
+  "Annetta.Main.Dialogue.058": "Hallo @. #$e# Ich habe heute Lust auf eine heiße Suppe.$4",
+  "Annetta.Main.Dialogue.059": "Es ist so kalt, dass ich meine Füße nicht mehr spüre!$7",
+  "Annetta.Main.Dialogue.060": "Dieses kalte Wetter lässt dich wirklich ein schönes warmes Feuer zu schätzen wissen.$1 #$b# $q 788/789/790 winterquestion_after #Was machst du gerne, wenn das Wetter so schneereich ist?#$r 788 10 winterquestion_yes#Ich kuschle mich gerne zu Hause ein, trinke heiße Schokolade und schaue meine Lieblingsserie!#$r 789 -5 winterquestion_sorry#Nicht viel. Ich plane, herumzuliegen.#$r 790 0 winterquestion_no#Ich hasse es, weil ich immer krank bin!",
+  "Annetta.Main.Dialogue.061": "Wirklich! Das ist genau das, was ich gerne mache!$1",
+  "Annetta.Main.Dialogue.062": "Hmm... klingt ziemlich langweilig, wenn du mich fragst.$6",
+  "Annetta.Main.Dialogue.063": "Oh. Ähm. Entschuldigung. Es ist am besten, warm zu bleiben, @.$2",
+  "Annetta.Main.Dialogue.064": "$p 788 #Dieser Bauer ist wirklich nett.$6 #$b# OH... @ wie lange bist du schon hier? $9|Hallo @! Ich dachte, du wärst zu Hause und würdest dich entspannen.$9|Hey @, komm nicht rüber, wenn du krank bist, okay.$8",
+  "Annetta.Main.Dialogue.065": "$q 890/891/892 nexttime_key#Was hast du heute vor?#$r 890 0 inner_key#Nicht viel. Ich bin heute nur unterwegs und erkunde.#$r 891 0 middle_key#Ich muss heute einige Höhlen erkunden.#$r 892 0 outer_key#Ich plane, den ganzen Tag zu angeln.",
+  "Annetta.Main.Dialogue.066": "Oh, das klingt nach Spaß. Bring mir etwas mit zurück?$1",
+  "Annetta.Main.Dialogue.067": "Nun, das klingt nach einem beschäftigten Tag. Ich will dich nicht aufhalten.",
+  "Annetta.Main.Dialogue.068": "Planst du, es zum Abendessen zu kochen? Klingt lecker.$1",
+  "Annetta.Main.Dialogue.069": "$p 890 #Hast du mir etwas Essbares mitgebracht?|Hallo @! Hast du schon etwas Interessantes in den Minen gefunden?|Ich wünsche dir viel Glück beim Angeln.$1",
+  "Annetta.Main.Dialogue.070": "$y 'Ich hoffe, dass du %pet viele Leckerlis gibst!_Ich habe sie heute Morgen gefüttert._Oh, ich bin froh, dass %pet so einen liebevollen Besitzer hat.$4_Oh, Mist! Ich habe sie seit Monaten nicht gefüttert._Oh mein! Vielleicht solltest du kein Haustier haben, @. Bitte kümmere dich um dein kleines.$5 '",
+
+  "Annetta.Main.Dialogue.071": "$y 'Die Saison ist fast vorbei. Wünschst du dir nicht, dass der Winter ein bisschen länger dauern könnte?_Ich liebe diese Jahreszeit. Sie wärmt mein Herz wie heiße Schokolade und ein warmes Feuer._Oh, es ist schade, dass der Schnee bald schmelzen wird.$2_Ich mag den Winter und so, aber er ist sehr hart für mich. Ich kann die eisigen Temperaturen nicht ertragen._Der beste Rat, den ich geben kann, ist, ein paar mehr Schichten Kleidung zu tragen und sicherzustellen, dass du aktiv bleibst.$9'",
+
+  "Annetta.Main.Dialogue.072": "Brrr... es ist heute so kalt. Ich wünschte, ich könnte wie ein Bär Winterschlaf halten.$9",
+  "Annetta.Main.Dialogue.073": "Weißt du, was perfekt für kaltes Wetter ist? Eine warme und gemütliche Decke.$1",
+  "Annetta.Main.Dialogue.074": "Ich liebe den Winter, aber manchmal vermisse ich die warmen Strahlen der Sonne.$2",
+  "Annetta.Main.Dialogue.075": "Ich habe die Schneeeulen letzte Nacht rufen gehört. Es ist ein beruhigendes Geräusch, oder?$6",
+  "Annetta.Main.Dialogue.076": "Ich habe in letzter Zeit einige Winterbasteleien gemacht. Willst du sie dir ansehen?$6",
+  "Annetta.Main.Dialogue.077": "Ich habe Lust, heute einige Winterleckereien zu backen. Was ist dein Lieblingswinterdessert?$8",
+  "Annetta.Main.Dialogue.078": "Es gibt etwas Magisches am Winterhimmel, der mit Sternen gefüllt ist. Es sieht fast falsch aus, den Nachthimmel so klar zu sehen nach einem Wintersturm.$9",
+  "Annetta.Main.Dialogue.079": "Das Jahr neigt sich dem Ende zu, und bald wird der Schnee schmelzen. Die Zeit vergeht schnell, nicht wahr?$6",
+  "Annetta.Main.Dialogue.080": "Ich finde regnerische Tage perfekt, um meinen künstlerischen Neigungen nachzugehen. Der Klang der Regentropfen schafft einen beruhigenden Rhythmus, damit meine Gedanken fließen können.$4",
+  "Annetta.Main.Dialogue.081": "Der Regen bringt eine andere Seite der Natur zum Vorschein – eine ruhige Schönheit, die oft übersehen wird. Es ist, als würde man die Welt in einem anderen Licht sehen.$1",
+  "Annetta.Main.Dialogue.082": "Ich hoffe, der Regen stört dich nicht zu sehr. Wenn du jemals Gesellschaft an einem regnerischen Tag brauchst, bin ich nur einen Steinwurf entfernt.$4",
+  "Annetta.Main.Dialogue.083": "Ich stört der Regen an Montagen nicht so sehr.",
+  "Annetta.Main.Dialogue.084": "Ich schaue gerne aus dem Fenster, wenn es regnet.",
+  "Annetta.Main.Dialogue.085": "Seltsamerweise kann ich mich lebhaft an viele regnerische Tage aus der Vergangenheit erinnern, an denen ich nur herumgesessen und Comics gelesen habe. Das waren die Zeiten. Jetzt muss ich mir Zeit nehmen, um einen zu lesen.",
+  "Annetta.Main.Dialogue.086": "Hmm.. Ein weiterer regnerischer Tag. $5 #$e# Ich glaube nicht, dass ich nach draußen gehen werde.$9",
+  "Annetta.Main.Dialogue.087": "Wow, es schüttet draußen.",
+  "Annetta.Main.Dialogue.088": "Du solltest versuchen, bei diesem Wetter drinnen zu bleiben. Krank zu werden ist eine Möglichkeit.",
+  "Annetta.Main.Dialogue.089": "Ich habe letzte Nacht ein Grollen draußen in der Nähe des Kap gehört. #@b# Ich denke, ein Blitz hat den Boden getroffen.$9",
+  "Annetta.Main.Dialogue.090": "Weißt du, der Herbst macht mich immer nostalgisch. Es ist wie eine Jahreszeit der Reflexion und Veränderung.",
+  "Annetta.Main.Dialogue.091": "Frohe Erntezeit, @! Ich hoffe, das Glück ist in dieser Saison auf deiner Seite.",
+  "Annetta.Main.Dialogue.092": "Auch wenn ich die meiste Zeit damit verbringe, vernünftige Entscheidungen zu treffen, werden mich meine Instinkte hänseln.$6",
+  "Annetta.Main.Dialogue.093": "Mir liegt dieses Land am Herzen. Ich hoffe, dass die Jahreszeiten immer so schön sind.$9",
+  "Annetta.Main.Dialogue.094": "Der Herbst ist so charmant. Die Blätter sind so schön, wenn sie von den Bäumen fallen. Kannst du erkennen, dass ich ein Naturfreund bin? #$b# Eine meiner Lieblingsbeschäftigungen in letzter Zeit ist es, einfach durch den Wald zu spazieren.",
+  "Annetta.Main.Dialogue.095": "Der Herbst ist einer meiner Lieblingsmonate, weißt du. #$b# Ich bin glücklich, einfach zu Hause mit etwas Kürbiskuchen zu sitzen.",
+  "Annetta.Main.Dialogue.096": "Möchtest du mich auf einen Spaziergang im Wald begleiten? Es ist so friedlich und ruhig.",
+  "Annetta.Main.Dialogue.097": "Ich finde mich im Herbst öfter in Tagträumen verloren.",
+  "Annetta.Main.Dialogue.098": "Ich genieße die gruselige Jahreszeit. Allerdings habe ich nicht immer das Bedürfnis, rauszugehen.#$b# Nur einen gruseligen Film zu schauen, reicht mir.$4",
+  "Annetta.Main.Dialogue.099": "Ich versuche nur, mich zu unterhalten und die Dinge zu tun, die ich mag.$9 #$b# Das ist mein Ansatz.",
+  "Annetta.Main.Dialogue.100": "Hast du schon mal versucht, im Sommer Fruchteis am Stiel zu machen? Die sind so erfrischend!",
+  "Annetta.Main.Dialogue.101": "Die Sommerbrise lässt alles leichter und unbeschwerter erscheinen.",
+  "Annetta.Main.Dialogue.102": "Ich liebe es, im Sommer Muscheln zu sammeln. Jede fühlt sich wie ein kleiner Schatz an.",
+  "Annetta.Main.Dialogue.103": "Die Zeit vergeht schnell im Sommer. Lass uns das Beste aus der Saison machen, @!",
+  "Annetta.Main.Dialogue.104": "Hey, @. Ich möchte im Ozean schwimmen, aber manchmal kann es beängstigend sein. $1 #$b# $q 788/790 sommerfrage_nach #Hast du Angst vor dem Ozean?#$r 788 10 sommerfrage_jawohl#Ja, ich habe auch Angst, der Ozean kann gnadenlos sein. #$r 790 0 sommerfrage_nein#Ich, Angst? Haha, niemals.",
+  "Annetta.Main.Dialogue.105": "Ja, es ist am besten, nicht zu weit hinauszugehen.$1",
+  "Annetta.Main.Dialogue.106": "Du musst dann vor etwas anderem Angst haben.$6",
+  "Annetta.Main.Dialogue.107": "$p 788 #Ich war neulich im Ozean schwimmen! Natürlich bin ich nicht sehr weit vom Ufer gegangen.$9|Ich bin immer noch sehr vorsichtig, wenn ich in den Ozean gehe. Es ist die Heimat vieler Meereslebewesen, also respektiere ich ihr Zuhause.$9",
+  "Annetta.Main.Dialogue.108": "Woah. Du siehst durstig aus @! Warte mal.$9 #$b# Hier, nimm das! Es ist auch an heißen Sommertagen großartig.[903]",
+  "Annetta.Main.Dialogue.109": "Es macht mir nichts aus, im Sommer zum Strand zu gehen und mich abzukühlen.$6",
+  "Annetta.Main.Dialogue.110": "Mein Lieblingskünstler läuft immer wieder.",
+  "Annetta.Main.Dialogue.111": "Nichts ist besser, als am Strand während der goldenen Stunde zu sitzen.",
+  "Annetta.Main.Dialogue.112": "Danke, dass du an meinem besonderen Tag an mich gedacht hast!$4",
+  "Annetta.Main.Dialogue.113": "Wow, was für eine Überraschung und an meinem Geburtstag! Ich schätze dich.$1",
+  "Annetta.Main.Dialogue.114": "Danke für die Geburtstagswünsche.$4",
+  "Annetta.Main.Dialogue.115": "Hey! Das ist jetzt ein anständiges Geschenk. Danke @!$4",
+  "Annetta.Main.Dialogue.116": "Ja, ähm... Danke!$9",
+  "Annetta.Main.Dialogue.117": "Danke für das Geschenk und so, aber was ist das?$6",
+  "Annetta.Main.Dialogue.118": "Es ist eine nette Geste, aber ich denke, du solltest mittlerweile wissen, was ich mag.$6",
+  "Annetta.Main.Dialogue.119": "Ich glaube, es gehört Marlon, aber ich wette, es wäre lustig, mit diesem Boot in See zu stechen.$1#$b#... und es ist in perfektem Zustand, oder?%fork",
+  "Annetta.Main.Dialogue.120": "%Annetta starrt in die Ferne%fork",
+  "Annetta.Main.Dialogue.121": "Das ist wunderbar! Ich finde es so friedlich und faszinierend.%fork",
+  "Annetta.Main.Dialogue.122": "Oh, das ist in Ordnung. Es ist nicht für jeden.%fork",
+  "Annetta.Main.Dialogue.123": "Die Außenseite sieht wunderschön aus.%fork",
+  "Annetta.Main.Dialogue.124": "Ok, ich bin froh, dass du mir gesagt hast, dass du beschäftigt warst. Ist in Ordnung.%fork",
+  "Annetta.Main.Dialogue.125": "Nun, ich habe ein ziemlich gutes Feuerstarter-Set. Lass uns das für uns einfacher machen.%fork",
+  "Annetta.Main.Dialogue.126": "Okay, ich hole mein Feuerstarter-Set!$h%fork",
+  "Annetta.Main.Dialogue.127": "Du hast ein gutes Auge für Konstellationen! Orion, der mächtige Jäger, ist ein Anblick, den man gesehen haben muss.$h",
+  "Annetta.Main.Dialogue.128": "Oh, der Große Bär ist ein Klassiker, schön!#$b#Der Große Bär, der uns vom Nachthimmel aus beobachtet, ist wirklich faszinierend.$h",
+  "Annetta.Main.Dialogue.129": "Der Große Wagen ist so auffällig und leicht zu erkennen.#$b# $h Es ist eines der ersten Sternbilder, die ich gelernt habe, und ich liebe, dass es Teil des Großen Bären ist.",
+  "Annetta.Main.Dialogue.130": "Oh, Cygnus, der anmutige Schwan! Mein absoluter Favorit unter den Sternen. $h#$b# Eine fesselnde Geschichte, die sich über Kulturen hinweg webt, ein himmlischer Tanz der Liebe und Transformation.#$b#In den Bereichen der griechischen Mythologie symbolisiert er den göttlichen Vogel Zeus, der verliebt und verwandelt auf der Suche nach den Wünschen seines Herzens. Jetzt schmücken seine Flügel aus Sternenstaub den Nachthimmel, eine ewige Erinnerung an die bezaubernde Metamorphose der Liebe.#$b#Hast du jemals gesehen, wie er ein perfektes Kreuz mit dem Nordkreuz-Asterismus bildet?%fork",
+  "Annetta.Main.Dialogue.131": "Cassiopeia, die Königin des Himmels! Eine Geschichte von Demut und Konsequenzen, in den Sternen eingraviert. Ihr himmlischer Thron schmückt die Nacht und erinnert uns an die Tugenden der Bescheidenheit. Eine leuchtende Präsenz im weiten Gewebe der Konstellationen.%fork",
+  "Annetta.Main.Dialogue.132": "Oh, ich würde gerne irgendwann von den anderen Sternbildern hören, die du kennst.%fork",
+  "Annetta.Main.Dialogue.133": "Oh, Liebe, die Tanzfläche ist eine Leinwand, auf der jeder Einzelne seinen eigenen Rhythmus malt. Ich ziehe es vor, meine Schritte im stillen Ballett des Lebens zu choreografieren.$2",
+  "Annetta.Main.Dialogue.134": "Der Bus wurde wiederbelebt. Eine entzückende Serenade der Möglichkeiten!",
+  "Annetta.Main.Dialogue.135": "Ein Theater blüht in der Stadt, ein Garten voller Geschichten, die darauf warten, gepflückt zu werden!",
+
+  "Annetta.special.event.001": "Das ist seltsam. Was ist das für eine Präsenz, die ich plötzlich fühle?$7",
+
+  "Annetta.special.event.002": "Oh, hey! Du bist es! Hast mich mitten in meinem kleinen Strandkonzert erwischt. Ich hoffe, es stört dich nicht, dass ich spontan aufgetreten bin.$4",
+
+  "Annetta.special.event.003": "Nun, das war unerwartet. Hier rührt sich definitiv etwas.$8",
+
+///order///
+  "annetta.order.s.001": "Ich wollte mich persönlich bei dir für deine kürzliche Hilfe bedanken.",
+  "annetta.order.s.002": "Deine Bemühungen sind nicht unbemerkt geblieben. Ich habe etwas Besonderes für dich.",
+  "annetta.order.s.003": "Nimm dieses Rezept und...",
+  "annetta.order.s.004": "...besuche den Saatgutladen. Ich habe Pierre gebeten, einige neue Artikel aufzunehmen!",
+  "annetta.order.s.005": "Mach weiter so mit der guten Arbeit auf dem Bauernhof!",
+
+  "Annetta.Main.Dialogue.Mon": "Hey, einen schönen Montag! Bereit, die Woche zu erobern?",
+  "Annetta.Main.Dialogue.Thu": "Wow, ist schon Donnerstag? Die Zeit weiß wirklich, wie man sprintet!",
+  "Annetta.Main.Dialogue.Sun": "Ah, faule Sonntage! Perfekt, um sich mit einem guten Buch einzukuscheln, findest du nicht?",
+  "Annetta.Main.Dialogue.Tue": "Nun, hallo, Dienstag! Lass uns den Tag so fabelhaft machen wie wir!",
+  "Annetta.Main.Dialogue.Wed": "Rate mal was? Es ist Mittwoch! Die Woche hat nichts gegen uns!",
+  "Annetta.Main.Dialogue.Fri": "Frohen Freitag!",
+  "Annetta.Main.Dialogue.Sat": "Zeit, sich zurückzulehnen, zu entspannen und die gute Zeit genießen zu lassen!",
+
+  "Annetta_quest.reaction": "Oh! Eine meiner Lieblingsfrüchte, danke, dass du sie geliefert hast. Sie sehen schön und frisch aus.",
+
+  "Annetta_quest2.reaction": "Oh, zum Glück! Ich dachte, all meine Skizzen wären für immer verschwunden. Es sieht so aus, als wären alle Seiten noch in gutem Zustand. Danke dir!",
+
+  "Annetta_quest3.reaction": "WOO! Sie sehen aus wie ein Stern.$h #$b# Jetzt kommt der Geschmackstest. #$b# .... #$b# MMM. Oh Wow! Es ist leicht süß und ein bisschen sauer. Irgendwie wie ein Apfel!$h",
+
+
+//conversationtopics//
+  "Capelakewalk.convotopic": "Der Spaziergang zum See letzte Nacht war, als ob der Mond selbst beschlossen hätte, mit uns zu tanzen, so hell leuchtend, findest du nicht?",
+
+
+  "Annetta.Jelli.Encounter.yes": "Weißt du, seit du mir von diesem Meeresgeist erzählt hast, denke ich viel darüber nach. Es ist erstaunlich zu denken, dass es so viel gibt, was wir über den Ozean nicht wissen.",
+  "Annetta.Jelli.Encounter.no": "Ich habe über diesen Spritzer im Wasser nachgedacht. Es ist alles so geheimnisvoll. Was könnte das gewesen sein? Der Ozean birgt so viele Geheimnisse.",
+
+///AnnettaJelliMystery//
+
+
+
+  "Annetta.new.event.001": "Seit du mir von dem Meeresgeist erzählt hast, bin ich so neugierig.",
+  "Annetta.new.event.002": "Ich kann nicht aufhören, an die Geheimnisse des Ozeans zu denken.",
+  "Annetta.new.event.003": "Deine Verbindung mit dem Meeresgeist hat mir die Augen für die Schönheit und Ruhe des Ozeans geöffnet. Ich bin ins Sternentautal gezogen, um die Chance zu haben, neue Wunder zu erkunden und zu entdecken. Jetzt träume ich davon, den Geist zu treffen, den Ozean zu umarmen und die verborgenen Wunder dieser Welt zu enthüllen.",
+  "Annetta.new.event.004": "Ich werde diesen Traum schätzen, auch wenn es im Moment nur ein Wunsch ist.",
+
+  "Annetta.bday.dialogue.001": "Der Wald ist der perfekte Ort, um nachzudenken.",
+
+
+  "Annetta.bday.dialogue.002": "Die Stadt ist heute voller Leben, aber ich genieße einfach die kleinen Dinge. Geburtstage haben die Fähigkeit, das Beste in den Menschen zum Vorschein zu bringen.",
+
+  "Annetta.bday.dialogue.003": "Die Sterne sehen heute Nacht so klar aus.",
+
+  "Annetta.bday.dialogue.004": "Danke, dass ich hier sein darf, Robin. Es gibt etwas Beruhigendes daran, unter den Sternen mit einem guten Freund zu feiern."
+}
+
+ 
+
+
+
