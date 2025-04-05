@@ -33,4 +33,4 @@
 
 ## Zuletzt
 
-Danke an @tienducle für das [Übsersetzungs-Tool](https://github.com/tienducle/sv-i18n-translator)
+Danke an [tienducle](https://www.github.com/tienducle) für das [Übsersetzungs-Tool](https://github.com/tienducle/sv-i18n-translator)
